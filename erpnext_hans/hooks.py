@@ -1,9 +1,9 @@
 from . import __version__ as app_version
 
 app_name = "erpnext_hans"
-app_title = "ERPNext China"
+app_title = "ERPNext Hans"
 app_publisher = "yuxinyong"
-app_description = "ERPNext China"
+app_description = "ERPNext Hans"
 app_email = "yuxinyong@163.com"
 app_license = "MIT"
 
