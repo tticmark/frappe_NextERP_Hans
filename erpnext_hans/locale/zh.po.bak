@@ -1,0 +1,1464 @@
+#. Header text in the Overview Workspace
+#: hrms/hr/workspace/overview/overview.json
+msgid "<span class=\"h4\"><b>Reports &amp; Masters</b></span>"
+msgstr "<span class=\"h4\"><b>报表 &amp; 主数据</b></span>"
+
+#. Header text in the Salary Payout Workspace
+#: hrms/payroll/workspace/salary_payout/salary_payout.json
+msgid "<span class=\"h4\"><b>Transactions &amp; Reports</b></span>"
+msgstr "<span class=\"h4\"><b>交易 &amp; 报表</b></span>"
+
+msgid "Confirm before resetting posting date"
+msgstr "重置记账日期提醒"
+
+msgid "If enabled, user will be alerted before resetting posting date to current date in relevant transactions"
+msgstr "如勾选，重置记账日期为当日会弹出提醒给用户"
+
+msgid "Upon enabling this, the JV will be submitted for a different exchange rate."
+msgstr "勾选后，日记账凭证提交时会使用不同的汇率"
+
+msgid "Set Valuation Rate for Rejected Materials"
+msgstr "设置拒收物料成本价"
+
+msgid "If enabled, the system will generate an accounting entry for materials rejected in the Purchase Receipt."
+msgstr "如勾选，系统会为采购入库中的拒收物料生成会计凭证"
+
+msgid "Fixed Outgoing Email Account"
+msgstr "固定发件箱"
+
+msgid "If set, the system does not use the user's Email or the standard outgoing Email account for sending request for quotations."
+msgstr "如勾选，系统固定邮箱而非当前用户邮箱发出询价单"
+
+msgid "Show Absolute Datetime in Timeline"
+msgstr "单据时间线日志显示完整时间"
+
+msgid "Max signups allowed per hour"
+msgstr "每小时最大允许注册数"
+
+msgid "Allow Consecutive Login Attempts"
+msgstr "允许连续登录尝试次数"
+
+msgid "Max Report Rows"
+msgstr "最大报表行数"
+
+msgid "This value specifies the max number of rows that can be rendered in report view."
+msgstr "报表界面最大允许显示的行数"
+
+msgid "Last Scanned Warehouse"
+msgstr "最后已扫仓库代码"
+
+msgid "Workflow Task"
+msgstr "工作流任务"
+
+msgid "Operating Costs (Per Hour)"
+msgstr "工费成本（每小时）"
+
+msgid "Operating Components Cost"
+msgstr "工费成本"
+
+msgid "Operating Component"
+msgstr "工费成本构成"
+
+msgid "Workstation Operating Component"
+msgstr "工站工费成本构成"
+
+msgid "Component Name"
+msgstr "成本构成"
+
+msgid "Component Expense Account"
+msgstr "成本构成费用科目"
+
+msgid "Serial No and Batch Traceability"
+msgstr "序列号与批号追溯"
+
+msgid "Traceability Direction"
+msgstr "追溯方向"
+
+msgid "Backward"
+msgstr "向后"
+
+msgid "Receipt Items"
+msgstr "采购入库明细"
+
+msgid "Vendor Invoices"
+msgstr "供应商发票明细"
+
+msgid "Vendor Invoice"
+msgstr "供应商发票"
+
+msgid "Landed Cost"
+msgstr "到岸成本"
+
+#. Label of the has_corrective_cost (Check) field in DocType 'Landed Cost Taxes
+#. and Charges'
+#: erpnext/stock/doctype/landed_cost_taxes_and_charges/landed_cost_taxes_and_charges.json
+msgid "Has Corrective Cost"
+msgstr "有返工成本"
+
+#. Label of the claimed_landed_cost_amount (Currency) field in DocType
+#. 'Purchase Invoice'
+#: erpnext/accounts/doctype/purchase_invoice/purchase_invoice.json
+msgid "Claimed Landed Cost Amount (Company Currency)"
+msgstr "已结转到岸成本(公司币)"
+
+msgid "Top Customers"
+msgstr "大客户"
+
+msgid "Item-wise Annual Sales"
+msgstr "年度单品销售额"
+
+msgid "Delivery Trends"
+msgstr "销售出货趋势"
+
+msgid "Oldest Items"
+msgstr "呆滞物料"
+
+msgid "Item Shortage Summary"
+msgstr "缺货清单"
+
+msgid "Material Request Analysis"
+msgstr "物料需求分析"
+
+msgid "Top Suppliers"
+msgstr "核心供应商"
+
+msgid "New Lead (Last 1 Month)"
+msgstr "新线索（上个月）"
+
+msgid "New Opportunity (Last 1 Month)"
+msgstr "新商机（上个月)"
+
+msgid "Won Opportunity (Last 1 Month)"
+msgstr "已转化商机（上个月）"
+
+msgid "Open Opportunity"
+msgstr "在手商机"
+
+msgid "Incoming Leads"
+msgstr "收到的线索"
+
+msgid "Opportunity Trends"
+msgstr "商机趋势"
+
+msgid "Won Opportunities"
+msgstr "已转化商机"
+
+msgid "Territory Wise Opportunity Count"
+msgstr "区域商机数"
+
+msgid "Opportunities via Campaigns"
+msgstr "营销转化的商机"
+
+msgid "Advance Voucher No"
+msgstr "预付单据号"
+
+msgid "Advance Voucher Type"
+msgstr "预付单据类型"
+
+msgid "Show Group Accounts"
+msgstr "显示上层(组)科目"
+
+#: erpnext/accounts/report/general_ledger/general_ledger.js:202
+msgid "Show Credit / Debit in Company Currency"
+msgstr "以本币显示借贷金额"
+
+msgid "API Logging"
+msgstr "API调用日志"
+
+msgid "Log API Requests"
+msgstr "记录API调用日志"
+
+msgid "FG / Semi FG Item"
+msgstr "成品/半成品物料号"
+
+msgid "Is Sub Assembly Item"
+msgstr "是子装配件"
+
+msgid "Is Composite Component"
+msgstr "是子资产"
+
+
+msgid "Abampere"
+msgstr "绝对安培"
+
+msgid "Acre"
+msgstr "英亩"
+
+msgid "Acre (US)"
+msgstr "英亩(美)"
+
+msgid "Ampere"
+msgstr "安培"
+
+msgid "Ampere-Hour"
+msgstr "安培小时"
+
+msgid "Ampere-Minute"
+msgstr "安培分"
+
+msgid "Ampere-Second"
+msgstr "安培秒"
+
+msgid "Are"
+msgstr "公亩"
+
+msgid "Area"
+msgstr "面积"
+
+msgid "Arshin"
+msgstr "阿尔申"
+
+msgid "Atmosphere"
+msgstr "标准大气压"
+
+msgid "Bar"
+msgstr "巴"
+
+msgid "Barleycorn"
+msgstr "大麦粒"
+
+msgid "Barrel (Oil)"
+msgstr "桶(石油)"
+
+msgid "Barrel(Beer)"
+msgstr "桶(啤酒)"
+
+msgid "Biot"
+msgstr "毕奥"
+
+msgid "Box"
+msgstr "箱"
+
+msgid "Btu (It)"
+msgstr "英热单位(国际蒸汽表)"
+
+msgid "Btu (Mean)"
+msgstr "英热单位(平均)"
+
+msgid "Btu (Th)"
+msgstr "英热单位(热化学)"
+
+msgid "Btu/Hour"
+msgstr "英热单位/小时"
+
+msgid "Btu/Minutes"
+msgstr "英热单位/分"
+
+msgid "Btu/Seconds"
+msgstr "英热单位/秒"
+
+msgid "Bushel (UK)"
+msgstr "蒲式耳(英)"
+
+msgid "Bushel (US Dry Level)"
+msgstr "蒲式耳(美干量)"
+
+msgid "Caballeria"
+msgstr "卡瓦耶里亚"
+
+msgid "Cable Length"
+msgstr "链长"
+
+msgid "Cable Length (UK)"
+msgstr "链长(英)"
+
+msgid "Cable Length (US)"
+msgstr "链长(美)"
+
+msgid "Calibre"
+msgstr "口径"
+
+msgid "Calorie (Food)"
+msgstr "卡(食物)"
+
+msgid "Calorie (It)"
+msgstr "卡(国际蒸汽表)"
+
+msgid "Calorie (Mean)"
+msgstr "卡(平均)"
+
+msgid "Calorie (Th)"
+msgstr "卡(热化学)"
+
+msgid "Calorie/Seconds"
+msgstr "卡/秒"
+
+msgid "Carat"
+msgstr "克拉"
+
+msgid "Celsius"
+msgstr "摄氏度"
+
+msgid "Cental"
+msgstr "森塔尔"
+
+msgid "Centiarea"
+msgstr "厘公亩"
+
+msgid "Centigram/Litre"
+msgstr "厘克/升"
+
+msgid "Centilitre"
+msgstr "厘升"
+
+msgid "Centimeter"
+msgstr "厘米"
+
+msgid "Chain"
+msgstr "链"
+
+msgid "Coulomb"
+msgstr "库仑"
+
+msgid "Cubic Centimeter"
+msgstr "立方厘米"
+
+msgid "Cubic Decimeter"
+msgstr "立方分米"
+
+msgid "Cubic Foot"
+msgstr "立方英尺"
+
+msgid "Cubic Inch"
+msgstr "立方英寸"
+
+msgid "Cubic Meter"
+msgstr "立方米"
+
+msgid "Cubic Millimeter"
+msgstr "立方毫米"
+
+msgid "Cubic Yard"
+msgstr "立方码"
+
+msgid "Cup"
+msgstr "杯"
+
+msgid "Cycle/Second"
+msgstr "周/秒"
+
+msgid "Day"
+msgstr "天"
+
+msgid "Decigram/Litre"
+msgstr "分克/升"
+
+msgid "Decilitre"
+msgstr "分升"
+
+msgid "Decimeter"
+msgstr "分米"
+
+msgid "Dekagram/Litre"
+msgstr "十克/升"
+
+msgid "Dram"
+msgstr "打兰"
+
+msgid "Dyne"
+msgstr "达因"
+
+msgid "Ells (UK)"
+msgstr "厄尔(英)"
+
+msgid "Ems(Pica)"
+msgstr "派卡"
+
+msgid "EMU Of Charge"
+msgstr "电磁单位电荷"
+
+msgid "EMU of current"
+msgstr "电磁单位电流"
+
+msgid "Erg"
+msgstr "尔格"
+
+msgid "Fahrenheit"
+msgstr "华氏度"
+
+msgid "Faraday"
+msgstr "法拉第"
+
+msgid "Fathom"
+msgstr "英寻"
+
+msgid "Fluid Ounce (UK)"
+msgstr "液量盎司(英)"
+
+msgid "Fluid Ounce (US)"
+msgstr "液量盎司(美)"
+
+msgid "Foot"
+msgstr "英尺"
+
+msgid "Foot Of Water"
+msgstr "英尺水柱"
+
+msgid "Foot/Minute"
+msgstr "英尺/分"
+
+msgid "Foot/Second"
+msgstr "英尺/秒"
+
+msgid "Furlong"
+msgstr "弗隆"
+
+msgid "Gallon (UK)"
+msgstr "加仑(英)"
+
+msgid "Gallon Dry (US)"
+msgstr "干量加仑(美)"
+
+msgid "Gallon Liquid (US)"
+msgstr "液量加仑(美)"
+
+msgid "Gamma"
+msgstr "伽马"
+
+msgid "Gauss"
+msgstr "高斯"
+
+msgid "Grain"
+msgstr "格令"
+
+msgid "Grain/Cubic Foot"
+msgstr "格令/立方英尺"
+
+msgid "Grain/Gallon (UK)"
+msgstr "格令/加仑(英)"
+
+msgid "Grain/Gallon (US)"
+msgstr "格令/加仑(美)"
+
+msgid "Gram"
+msgstr "克"
+
+msgid "Gram-Force"
+msgstr "克力"
+
+msgid "Gram/Cubic Centimeter"
+msgstr "克/立方厘米"
+
+msgid "Gram/Cubic Meter"
+msgstr "克/立方米"
+
+msgid "Gram/Cubic Millimeter"
+msgstr "克/立方毫米"
+
+msgid "Gram/Litre"
+msgstr "克/升"
+
+msgid "Hand"
+msgstr "手宽"
+
+msgid "Hectare"
+msgstr "公顷"
+
+msgid "Hectogram/Litre"
+msgstr "百克/升"
+
+msgid "Hectometer"
+msgstr "百米"
+
+msgid "Hectopascal"
+msgstr "百帕"
+
+msgid "Hertz"
+msgstr "赫兹"
+
+msgid "Horsepower"
+msgstr "马力"
+
+msgid "Horsepower-Hours"
+msgstr "马力小时"
+
+msgid "Hour"
+msgstr "小时"
+
+msgid "Hundredweight (UK)"
+msgstr "英担(英)"
+
+msgid "Hundredweight (US)"
+msgstr "英担(美)"
+
+msgid "Iches Of Water"
+msgstr "英寸水柱"
+
+msgid "Inch"
+msgstr "英寸"
+
+msgid "Inch Pound-Force"
+msgstr "英寸磅力"
+
+msgid "Inch/Minute"
+msgstr "英寸/分"
+
+msgid "Inch/Second"
+msgstr "英寸/秒"
+
+msgid "Inches Of Mercury"
+msgstr "英寸汞柱"
+
+msgid "Joule"
+msgstr "焦耳"
+
+msgid "Joule/Meter"
+msgstr "焦耳/米"
+
+msgid "Kelvin"
+msgstr "开尔文"
+
+msgid "Kg"
+msgstr "千克"
+
+msgid "Kiloampere"
+msgstr "千安培"
+
+msgid "Kilocalorie"
+msgstr "千卡"
+
+msgid "Kilocoulomb"
+msgstr "千库仑"
+
+msgid "Kilogram-Force"
+msgstr "千克力"
+
+msgid "Kilogram/Cubic Centimeter"
+msgstr "千克/立方厘米"
+
+msgid "Kilogram/Cubic Meter"
+msgstr "千克/立方米"
+
+msgid "Kilogram/Litre"
+msgstr "千克/升"
+
+msgid "Kilohertz"
+msgstr "千赫兹"
+
+msgid "Kilojoule"
+msgstr "千焦"
+
+msgid "Kilometer"
+msgstr "千米"
+
+msgid "Kilometer/Hour"
+msgstr "千米/小时"
+
+msgid "Kilopascal"
+msgstr "千帕"
+
+msgid "Kilopond"
+msgstr "千克力"
+
+msgid "Kilopound-Force"
+msgstr "千磅力"
+
+msgid "Kilowatt"
+msgstr "千瓦"
+
+msgid "Kilowatt-Hour"
+msgstr "千瓦时"
+
+msgid "Kip"
+msgstr "千磅"
+
+msgid "Knot"
+msgstr "节"
+
+msgid "Link"
+msgstr "令"
+
+msgid "Litre"
+msgstr "升"
+
+msgid "Litre-Atmosphere"
+msgstr "升大气压"
+
+msgid "Megacoulomb"
+msgstr "兆库仑"
+
+msgid "Megagram/Litre"
+msgstr "兆克/升"
+
+msgid "Megahertz"
+msgstr "兆赫兹"
+
+msgid "Megajoule"
+msgstr "兆焦"
+
+msgid "Megawatt"
+msgstr "兆瓦"
+
+msgid "Meter"
+msgstr "米"
+
+msgid "Meter Of Water"
+msgstr "米水柱"
+
+msgid "Meter/Second"
+msgstr "米/秒"
+
+msgid "Microbar"
+msgstr "微巴"
+
+msgid "Microgram"
+msgstr "微克"
+
+msgid "Microgram/Litre"
+msgstr "微克/升"
+
+msgid "Micrometer"
+msgstr "微米"
+
+msgid "Microsecond"
+msgstr "微秒"
+
+msgid "Mile"
+msgstr "英里"
+
+msgid "Mile (Nautical)"
+msgstr "海里"
+
+msgid "Mile/Hour"
+msgstr "英里/小时"
+
+msgid "Mile/Minute"
+msgstr "英里/分"
+
+msgid "Mile/Second"
+msgstr "英里/秒"
+
+msgid "Milibar"
+msgstr "毫巴"
+
+msgid "Milliampere"
+msgstr "毫安"
+
+msgid "Millicoulomb"
+msgstr "毫库仑"
+
+msgid "Milligram"
+msgstr "毫克"
+
+msgid "Milligram/Cubic Centimeter"
+msgstr "毫克/立方厘米"
+
+msgid "Milligram/Cubic Meter"
+msgstr "毫克/立方米"
+
+msgid "Milligram/Cubic Millimeter"
+msgstr "毫克/立方毫米"
+
+msgid "Milligram/Litre"
+msgstr "毫克/升"
+
+msgid "Millihertz"
+msgstr "毫赫兹"
+
+msgid "Millilitre"
+msgstr "毫升"
+
+msgid "Millimeter"
+msgstr "毫米"
+
+msgid "Millimeter Of Mercury"
+msgstr "毫米汞柱"
+
+msgid "Millimeter Of Water"
+msgstr "毫米水柱"
+
+msgid "Millisecond"
+msgstr "毫秒"
+
+msgid "Minute"
+msgstr "分钟"
+
+msgid "mm"
+msgstr "毫米"
+
+msgid "Nanocoulomb"
+msgstr "纳库仑"
+
+msgid "Nanogram/Litre"
+msgstr "纳克/升"
+
+msgid "Nanohertz"
+msgstr "纳赫兹"
+
+msgid "Nanometer"
+msgstr "纳米"
+
+msgid "Nanosecond"
+msgstr "纳秒"
+
+msgid "Newton"
+msgstr "牛顿"
+
+msgid "Nos"
+msgstr "个"
+
+msgid "Ounce"
+msgstr "盎司"
+
+msgid "Ounce-Force"
+msgstr "盎司力"
+
+msgid "Ounce/Cubic Foot"
+msgstr "盎司/立方英尺"
+
+msgid "Ounce/Cubic Inch"
+msgstr "盎司/立方英寸"
+
+msgid "Ounce/Gallon (UK)"
+msgstr "盎司/加仑(英)"
+
+msgid "Ounce/Gallon (US)"
+msgstr "盎司/加仑(美)"
+
+msgid "Pair"
+msgstr "双"
+
+msgid "Parts Per Million"
+msgstr "百万分率"
+
+msgid "Pascal"
+msgstr "帕斯卡"
+
+msgid "Peck (UK)"
+msgstr "配克(英)"
+
+msgid "Peck (US)"
+msgstr "配克(美)"
+
+msgid "Percent"
+msgstr "百分比"
+
+msgid "Pint (UK)"
+msgstr "品脱(英)"
+
+msgid "Pint (US)"
+msgstr "品脱(美)"
+
+msgid "Pint, Dry (US)"
+msgstr "干量品脱(美)"
+
+msgid "Pint, Liquid (US)"
+msgstr "液量品脱(美)"
+
+msgid "Pond"
+msgstr "波德"
+
+msgid "Pood"
+msgstr "普特"
+
+msgid "Pound"
+msgstr "磅"
+
+msgid "Pound-Force"
+msgstr "磅力"
+
+msgid "Pound/Cubic Foot"
+msgstr "磅/立方英尺"
+
+msgid "Pound/Cubic Inch"
+msgstr "磅/立方英寸"
+
+msgid "Pound/Cubic Yard"
+msgstr "磅/立方码"
+
+msgid "Pound/Gallon (UK)"
+msgstr "磅/加仑(英)"
+
+msgid "Pound/Gallon (US)"
+msgstr "磅/加仑(美)"
+
+msgid "Poundal"
+msgstr "磅达"
+
+msgid "Psi/1000 Feet"
+msgstr "磅/平方英寸每千英尺"
+
+msgid "Quart (UK)"
+msgstr "夸脱(英)"
+
+msgid "Quart Dry (US)"
+msgstr "干量夸脱(美)"
+
+msgid "Quart Liquid (US)"
+msgstr "液量夸脱(美)"
+
+msgid "Quintal"
+msgstr "公担"
+
+msgid "Rod"
+msgstr "杆"
+
+msgid "Sazhen"
+msgstr "俄丈"
+
+msgid "Second"
+msgstr "秒"
+
+msgid "Set"
+msgstr "套"
+
+msgid "Slug"
+msgstr "斯勒格"
+
+msgid "Slug/Cubic Foot"
+msgstr "斯勒格/立方英尺"
+
+msgid "Square Centimeter"
+msgstr "平方厘米"
+
+msgid "Square Foot"
+msgstr "平方英尺"
+
+msgid "Square Inch"
+msgstr "平方英寸"
+
+msgid "Square Kilometer"
+msgstr "平方千米"
+
+msgid "Square Meter"
+msgstr "平方米"
+
+msgid "Square Mile"
+msgstr "平方英里"
+
+msgid "Square Yard"
+msgstr "平方码"
+
+msgid "Stone"
+msgstr "英石"
+
+msgid "Tablespoon (US)"
+msgstr "汤匙(美)"
+
+msgid "Teaspoon"
+msgstr "茶匙"
+
+msgid "Technical Atmosphere"
+msgstr "工程大气压"
+
+msgid "Tesla"
+msgstr "特斯拉"
+
+msgid "Ton (Long)/Cubic Yard"
+msgstr "长吨/立方码"
+
+msgid "Ton (Short)/Cubic Yard"
+msgstr "短吨/立方码"
+
+msgid "Ton-Force (UK)"
+msgstr "吨力(英)"
+
+msgid "Ton-Force (US)"
+msgstr "吨力(美)"
+
+msgid "Tonne"
+msgstr "吨"
+
+msgid "Tonne-Force(Metric)"
+msgstr "吨力(公制)"
+
+msgid "Torr"
+msgstr "托"
+
+msgid "Unit"
+msgstr "单位"
+
+msgid "Vara"
+msgstr "瓦拉"
+
+msgid "Versta"
+msgstr "俄里"
+
+msgid "Volt-Ampere"
+msgstr "伏安"
+
+msgid "Watt"
+msgstr "瓦"
+
+msgid "Watt-Hour"
+msgstr "瓦时"
+
+msgid "Wavelength In Gigametres"
+msgstr "波长(吉米)"
+
+msgid "Wavelength In Kilometres"
+msgstr "波长(千米)"
+
+msgid "Wavelength In Megametres"
+msgstr "波长(兆米)"
+
+msgid "Week"
+msgstr "周"
+
+msgid "Yard"
+msgstr "码"
+
+msgid "Agriculture"
+msgstr "农业"
+
+msgid "Density"
+msgstr "密度"
+
+msgid "Electric Current"
+msgstr "电流"
+
+msgid "Electrical Charge"
+msgstr "电荷"
+
+msgid "Energy"
+msgstr "能量"
+
+msgid "Force"
+msgstr "力"
+
+msgid "Frequency and Wavelength"
+msgstr "频率与波长"
+
+msgid "Length"
+msgstr "长度"
+
+msgid "Magnetic Induction"
+msgstr "磁感应强度"
+
+msgid "Mass"
+msgstr "质量"
+
+msgid "Power"
+msgstr "功率"
+
+msgid "Pressure"
+msgstr "压力"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid "Temperature"
+msgstr "温度"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Volume"
+msgstr "体积"
+msgid "Allow All Party Type"
+msgstr "允许所有往来单位类型"
+
+msgid "Amount From"
+msgstr "金额来源"
+
+msgid "BS and PL Missing Account"
+msgstr "资产负债表与利润表缺失科目"
+
+msgid "Calculate Rows"
+msgstr "行汇总计算"
+
+msgid "Cash Flow Code"
+msgstr "现金流量项目代码"
+
+msgid "Cash Flow Items"
+msgstr "现金流量项目"
+
+msgid "Cash Flow Name"
+msgstr "现金流量项目名称"
+
+msgid "Cash Flow Subtotal"
+msgstr "现金流量小计"
+
+msgid "Cash Flow Type"
+msgstr "现金流量类型"
+
+msgid "Default Cash Flow Code"
+msgstr "默认现金流量项目代码"
+
+msgid "Default Party Type"
+msgstr "默认往来单位类型"
+
+msgid "Get Cash Flow Items"
+msgstr "获取现金流量项目"
+
+msgid "Is Outflow"
+msgstr "是否为流出"
+
+msgid "Manual Split"
+msgstr "手工拆分"
+
+msgid "Monthly Amount"
+msgstr "月度金额"
+
+msgid "Report Sequence"
+msgstr "报表顺序号"
+
+msgid "above_subtotal"
+msgstr "以上小计"
+
+msgid "last_period_balance"
+msgstr "上期余额"
+
+msgid "type_subtotal"
+msgstr "分类汇总"
+msgid "Disable"
+msgstr "停用"
+
+msgid "Notification Type"
+msgstr "通知类型"
+
+msgid "Valuation Type"
+msgstr "计价类型"
+
+msgid "Credit & Overdue Limits"
+msgstr "信用额度与逾期额度"
+
+msgid "Distribute Additional Costs Based On"
+msgstr "附加费用分摊依据"
+
+msgid "Email me for these notification types"
+msgstr "这些通知类型发送邮件给我"
+
+msgid "Employee CTC Break-up"
+msgstr "员工薪酬构成明细"
+
+msgid "Employer Contributions"
+msgstr "雇主缴款"
+
+msgid "Holiday List Assignment"
+msgstr "假期表分配"
+
+msgid "Holidays in this month"
+msgstr "本月假期"
+
+msgid "Margin"
+msgstr "毛利"
+
+msgid "Pay Details"
+msgstr "工资明细"
+
+msgid "member_name"
+msgstr "成员名称"
+
+msgid "Accepted Job Applicants"
+msgstr "已录用求职者"
+
+msgid "Accounts Receivable / Payable Report"
+msgstr "应收/应付账款报表"
+
+msgid "Action for Expired Unverified Appointments"
+msgstr "过期未确认预约的处理方式"
+
+msgid "Active Customers"
+msgstr "活跃客户"
+
+msgid "Active Employees"
+msgstr "在职员工"
+
+msgid "Active RQ Worker"
+msgstr "活跃 RQ 工作进程"
+
+msgid "Active Suppliers"
+msgstr "活跃供应商"
+
+msgid "Allow Leave Application After (Calendar Days)"
+msgstr "可提前申请休假的天数(日历日)"
+
+msgid "Allow multi-currency invoices against single party account"
+msgstr "允许同一往来科目开具多币种发票"
+
+msgid "Annual Gross Earning"
+msgstr "年度总收入"
+
+msgid "Annual Purchase"
+msgstr "年度采购额"
+
+msgid "Annual Sales"
+msgstr "年度销售额"
+
+msgid "Applicant-to-Hire Percentage"
+msgstr "录用率"
+
+msgid "Application Web Form Route"
+msgstr "应聘表单路由"
+
+msgid "Appointment Booking Portal Settings"
+msgstr "预约门户设置"
+
+msgid "Appointment Scheduling"
+msgstr "预约安排"
+
+msgid "Approved Claims (This Month)"
+msgstr "已批准报销单(本月)"
+
+msgid "Apps Involved"
+msgstr "涉及的应用"
+
+msgid "Assignment Starts From"
+msgstr "分配起始日"
+
+msgid "Auto Repost Incorrect Valuation Entries (Weekly)"
+msgstr "自动重算错误计价分录(每周)"
+
+msgid "Auto Reposting of Incorrect Valuation"
+msgstr "自动重算错误计价"
+
+msgid "Average Sales Order Value"
+msgstr "平均订单金额"
+
+msgid "Base, Variable & Leave Encashment"
+msgstr "基本工资、浮动薪酬及休假兑现"
+
+msgid "Benefit Application"
+msgstr "福利申请"
+
+msgid "Benefit Claim"
+msgstr "福利报销"
+
+msgid "Boarding Status"
+msgstr "入职状态"
+
+msgid "Book Stock Expense GL Entries"
+msgstr "记录存货费用总账分录"
+
+msgid "Clear Cache"
+msgstr "清除缓存"
+
+msgid "Component properties and references"
+msgstr "组件属性与引用"
+
+msgid "Created through Portal"
+msgstr "通过门户创建"
+
+msgid "Current Employer"
+msgstr "当前雇主"
+
+msgid "Current Odometer value"
+msgstr "当前里程表读数"
+
+msgid "Default Work In Progress Warehouse"
+msgstr "默认在制品仓库"
+
+msgid "Depth"
+msgstr "层级深度"
+
+msgid "Disable \"Consider Accounting Dimension\" Filter"
+msgstr "禁用\"考虑会计维度\"筛选器"
+
+msgid "Doc Values"
+msgstr "文档值"
+
+msgid "Duration (ms)"
+msgstr "耗时(毫秒)"
+
+msgid "Email Campaign For"
+msgstr "邮件活动目标单据"
+
+msgid "Email Verified"
+msgstr "邮箱已验证"
+
+msgid "Employee Company"
+msgstr "员工所属公司"
+
+msgid "Employee Hours Utilization"
+msgstr "员工工时利用率"
+
+msgid "Employee Responsible"
+msgstr "负责员工"
+
+msgid "Employees on leave this month"
+msgstr "本月休假员工"
+
+msgid "Employees on leave today"
+msgstr "今日休假员工"
+
+msgid "Enable Appointment Booking Through Portal"
+msgstr "启用门户预约"
+
+msgid "Enable Multi-Currency Expense Claims"
+msgstr "启用多币种报销单"
+
+msgid "Exemption Declaration"
+msgstr "免税申报"
+
+msgid "Exemption Submission Proof"
+msgstr "免税申报凭证"
+
+msgid "Expense Claims (This Month)"
+msgstr "报销单(本月)"
+
+msgid "Finished Good Quantity"
+msgstr "产成品数量"
+
+msgid "First Used On"
+msgstr "首次使用日期"
+
+msgid "For Designation"
+msgstr "适用职位"
+
+msgid "Fraction of Applicable Earnings"
+msgstr "适用收入比例"
+
+msgid "General Ledger Report"
+msgstr "总账报表"
+
+msgid "Handlers"
+msgstr "处理程序"
+
+msgid "Hiring Pipeline"
+msgstr "招聘管道"
+
+msgid "Holiday List End"
+msgstr "假期表结束日"
+
+msgid "Holiday List Start"
+msgstr "假期表起始日"
+
+msgid "Interview Type Name"
+msgstr "面试类型名称"
+
+msgid "Job Offer Acceptance Rate"
+msgstr "录用通知接受率"
+
+msgid "Job Offers (This Month)"
+msgstr "录用通知(本月)"
+
+msgid "Job Portal"
+msgstr "招聘门户"
+
+msgid "Key required"
+msgstr "需要密钥"
+
+msgid "Last Odometer Value"
+msgstr "上次里程表读数"
+
+msgid "Leave Balance Summary"
+msgstr "假期余额汇总"
+
+msgid "Leave Policy Name"
+msgstr "休假政策名称"
+
+msgid "Liability Account"
+msgstr "负债科目"
+
+msgid "Max Zip Extract Size (MB)"
+msgstr "最大 Zip 解压体积(MB)"
+
+msgid "Notification Message"
+msgstr "通知消息"
+
+msgid "Notification Title"
+msgstr "通知标题"
+
+msgid "Number of Employees on Leave (This Month)"
+msgstr "休假员工数(本月)"
+
+msgid "Number of Employees on Leave (Today)"
+msgstr "休假员工数(今日)"
+
+msgid "Number of Events"
+msgstr "事件数量"
+
+msgid "Only Deduct Tax On Excess Amount"
+msgstr "仅对超出金额计税"
+
+msgid "Open Resume in New Tab"
+msgstr "在新标签页打开简历"
+
+msgid "Overdue Limit"
+msgstr "逾期额度"
+
+msgid "Pay via Payment Entry"
+msgstr "通过付款单支付"
+
+msgid "Prevent Duplicate Applications"
+msgstr "防止重复申请"
+
+msgid "Prevent Sales Invoice when Customer is Overdue"
+msgstr "客户逾期时禁止开具销售发票"
+
+msgid "Queries"
+msgstr "查询次数"
+
+msgid "Raw Method"
+msgstr "原始方法"
+
+msgid "Recipient & Status"
+msgstr "收件人与状态"
+
+msgid "Redact Message After Send"
+msgstr "发送后脱敏消息内容"
+
+msgid "Rejected Claims (This Month)"
+msgstr "已驳回报销单(本月)"
+
+msgid "Rejected Job Applicants"
+msgstr "已拒绝求职者"
+
+msgid "Reposting Status"
+msgstr "重算状态"
+
+msgid "Role Allowed to Bypass Over Billing Restriction"
+msgstr "可超出开票限制的角色"
+
+msgid "Role Allowed to over bill"
+msgstr "允许超额开票的角色"
+
+msgid "Sales Orders Count"
+msgstr "销售订单数"
+
+msgid "Scheduled Jobs"
+msgstr "计划任务"
+
+msgid "Select Dispatch Address"
+msgstr "选择发货地址"
+
+msgid "Send Acknowledgement Email"
+msgstr "发送确认邮件"
+
+msgid "Sequence"
+msgstr "顺序号"
+
+msgid "Skip Next Execution"
+msgstr "跳过下次执行"
+
+msgid "Stage"
+msgstr "阶段"
+
+msgid "Stock Expense"
+msgstr "存货费用"
+
+msgid "Stock Expense Accounting"
+msgstr "存货费用核算"
+
+msgid "Sync In Batches"
+msgstr "分批同步"
+
+msgid "Task Name"
+msgstr "任务名称"
+
+msgid "Timesheet Working Hours"
+msgstr "工时表工作时长"
+
+msgid "Total Applicants (This Month)"
+msgstr "求职者总数(本月)"
+
+msgid "Total Cost To Company (CTC)"
+msgstr "总人力成本(CTC)"
+
+msgid "Total Declaration Submitted"
+msgstr "已提交申报总数"
+
+msgid "Total Incentive Given(Last month)"
+msgstr "上月发放奖金总额"
+
+msgid "Total Incoming Bills"
+msgstr "进项发票总额"
+
+msgid "Total Incoming Payment"
+msgstr "收款总额"
+
+msgid "Total Number of Booked Depreciations"
+msgstr "已计提折旧总数"
+
+msgid "Total Outgoing Bills"
+msgstr "销项发票总额"
+
+msgid "Total Outgoing Payment"
+msgstr "付款总额"
+
+msgid "Total Outgoing Salary(Last month)"
+msgstr "上月工资发放总额"
+
+msgid "Total Salary Structure"
+msgstr "薪酬结构总数"
+
+msgid "Total System Users"
+msgstr "系统用户总数"
+
+msgid "Total Website Users"
+msgstr "网站用户总数"
+
+msgid "Type Name"
+msgstr "类型名称"
+
+msgid "Unlink Payment on Cancellation of Employee Advance"
+msgstr "取消员工预支时解除付款关联"
+
+msgid "Use Serial No Wise Valuation"
+msgstr "按序列号计价"
+
+msgid "Verification Link Expiry Duration"
+msgstr "验证链接有效期"
+
+msgid "Verification Token"
+msgstr "验证令牌"
+
+msgid "Web Form Values"
+msgstr "网页表单值"
+
+msgid "Work Anniversaries"
+msgstr "入职纪念日"
+
+msgid "Running"
+msgstr "运行中"
+
+msgid "% of Component Cost"
+msgstr "占组件成本百分比"
+
+msgid "Attachment Gallery"
+msgstr "附件库"
+
+msgid "Customer Form Tour"
+msgstr "客户表单导览"
+
+msgid "Delete Permanently"
+msgstr "永久删除"
+
+msgid "Employer Contribution"
+msgstr "雇主缴款"
+
+msgid "Mark as Closed"
+msgstr "标记为已关闭"
+
+msgid "On hold"
+msgstr "暂缓"
+
+msgid "Partially Reposted"
+msgstr "部分重算"
+
+msgid "Point Of Sale"
+msgstr "销售点(POS)"
+
+msgid "Reposted"
+msgstr "已重算"
+
+msgid "Setup Wizard"
+msgstr "设置向导"
+
+msgid "Shortlisted"
+msgstr "已入围"
+
+msgid "Supplier Form Tour"
+msgstr "供应商表单导览"
+
+msgid "Task Progress"
+msgstr "任务进度"
+
+msgid "Visual Plant Floor"
+msgstr "可视化车间布局"
+
+msgid "busy"
+msgstr "忙碌"
+
+msgid "idle"
+msgstr "空闲"
+
+msgid "Balance Sheet Settings Item"
+msgstr "资产负债表设置明细"
+
+msgid "Profit and Loss Statement Settings Item"
+msgstr "利润表设置明细"
+
+msgid "Cash Flow Item"
+msgstr "现金流量表明细"
