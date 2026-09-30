@@ -556,7 +556,6 @@ General Ledger,会计总账
 Ledger,会计凭证
 Accounting Dimension,辅助核算
 Accounting Dimensions,辅助核算
-Accounting Dimensions ,辅助核算
 Session Expiry must be in format {0},会话到期格式必须是{0}
 Lower Income,低收入
 Balance must be,余额方向
@@ -1134,8 +1133,7 @@ Any string-based printer languages can be used. Writing raw commands requires kn
 You can use Customize Form to set levels on fields.,可以使用定制表单设置字段的权限级别。
 "Scorecard variables can be used, as well as:
 {total_score} (the total score from that period),
-{period_number} (the number of periods to present day)
-","可以使用评分变量，以及：
+{period_number} (the number of periods to present day)","可以使用评分变量，以及：
 {total_score}（当期总分数），
 {period_number}（截止当天期数）"
 Roles can be set for users from their User page.,可以在用户主数据页面为用户分派角色。
@@ -1422,7 +1420,7 @@ Leave blank if the Supplier is blocked indefinitely,如果供应商被无限期�
 "If multiple Pricing Rules continue to prevail, users are asked to set Priority manually to resolve conflict.",如果几条动态定价规则同时使用，系统将提醒用户设置优先级。
 "If checked, all other workflows become inactive.",如果勾选，本单据类型其他工作流将变为失效状态。
 "If Auto Opt In is checked, then the customers will be automatically linked with the concerned Loyalty Program (on save)",如果勾选，则新客户将自动被分配该积分方案
-"If selected, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. ",如果勾选，则此薪资构成项中指定或计算的值不影响收入或扣除。但是，其值可被其它添加或扣除薪资构成项引用。
+"If selected, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted.",如果勾选，则此薪资构成项中指定或计算的值不影响收入或扣除。但是，其值可被其它添加或扣除薪资构成项引用。
 "If checked, the tax amount will be considered as already included in the Print Rate / Print Amount",如果勾选，打印的单价/总额就含税
 If more than one package of the same type (for print),如果同类包裹超过一个
 "If enabled, users who login from Restricted IP Address, won't be prompted for Two Factor Auth",如果启用，从受限制IP地址登录的用户无需双重验证
@@ -2077,7 +2075,7 @@ Could not find {0},找不到{0}
 "No fields found that can be used as a Kanban Column. Use the Customize Form to add a Custom Field of type ""Select"".",找不到可用作看板列的字段。使用“定制表单”添加“选择”类型的自定义字段。
 Field {0} not found.,找不到字段{0}。
 Page not found,找不到网页
-Could not find path for ,找不到路径
+Could not find path for,找不到路径
 Base Change Amount (Company Currency),找零金额（本币）
 Transporter Info,物流信息
 Transporter Name,物流公司名
@@ -2566,7 +2564,7 @@ Restrictions,权限限制清单
 Material Consumption is not set in Manufacturing Settings.,生产设置中未勾选启用工单耗用。
 The Condition '{0}' is invalid,条件“{0}”无效
 Condition and Formula Help,条件与公式说明
-Conditions will be applied on all the selected items combined. ,条件将适用于所有选定物料。
+Conditions will be applied on all the selected items combined.,条件将适用于所有选定物料。
 Barcodes,条码
 Barcode {0} is not a valid {1} code,条码{0}不是有效的{1}代码
 Source,来源
@@ -3154,7 +3152,7 @@ Category Description,类别说明
 Bold,粗体字显示
 Precision should be between 1 and 6,精度应为1和6之间
 "Loyalty Points will be calculated from the spent done (via the Sales Invoice), based on collection factor mentioned.",系统将根据消费金额(销售发票)，乘以兑换系数为客户自动积分。
-System will notify to increase or decrease quantity or amount ,如果单据未匹配到有效的动态定价规则且数量或金额与本规则最小值差异在上述%之内，则系统将弹窗提示用户增加或减少数量或金额以享受此规则定义的优惠
+System will notify to increase or decrease quantity or amount,如果单据未匹配到有效的动态定价规则且数量或金额与本规则最小值差异在上述%之内，则系统将弹窗提示用户增加或减少数量或金额以享受此规则定义的优惠
 Naming Series,单据编号模板
 Series,单据编号模板
 Series {0} already used in {1},单据编号模板{0}已经被{1}使用
@@ -3732,7 +3730,7 @@ Track milestones for any document,跟踪任何单据的里程碑
 Keep track of all update feeds,跟踪所有更新提要
 Keeps track of all communications,跟踪所有通信
 Track Email Status,跟踪电子邮件状态
-"Keep Track of Sales Campaigns. Keep track of Leads, Quotations, Sales Order etc from Campaigns to gauge Return on Investment. ",跟踪销售活动。跟踪线索，报价单，销售订单等，以衡量投资回报率。
+"Keep Track of Sales Campaigns. Keep track of Leads, Quotations, Sales Order etc from Campaigns to gauge Return on Investment.",跟踪销售活动。跟踪线索，报价单，销售订单等，以衡量投资回报率。
 Route,网址路径
 Identity Details,身份信息
 Identification Document Type,身份证明文件类型
@@ -4691,7 +4689,7 @@ Following Report Filters have missing values:,缺少以下报表过滤条件
 Allow Item to Be Added Multiple Times in a Transaction,允许在交易中物料号重复
 "If enabled, the notification will show up in the notifications dropdown on the top right corner of the navigation bar.",如勾选，通知将出现在导航区右上角的通知清单里
 "The percentage you are allowed to receive or deliver more against the quantity ordered. For example, if you have ordered 100 units, and your Allowance is 10%, then you are allowed to receive 110 units.",允许超订单量出入库百分比。如，订单数量100个，容差10％，则最多可收货或发货110个
-"The percentage you are allowed to bill more against the amount ordered. For example, if the order value is $100 for an item and tolerance is set as 10%, then you are allowed to bill up to $110 ",允许超订单金额开票百分比。如，订单金额100元，发票容差10％，则最多可开票110元
+"The percentage you are allowed to bill more against the amount ordered. For example, if the order value is $100 for an item and tolerance is set as 10%, then you are allowed to bill up to $110",允许超订单金额开票百分比。如，订单金额100元，发票容差10％，则最多可开票110元
 Control Historical Stock Transactions,历史库存交易控制
 No stock transactions can be created or modified before this date.,库存业务记账日期不得早于此日期
 Stock transactions that are older than the mentioned days cannot be modified.,补录单据过账日期不得早于今天-锁帐天数，如今天9月20号，锁账天数10，则系统不允许过账日期早于9月10号
@@ -4709,7 +4707,7 @@ Configure the action to stop the transaction or just warn if the same rate is no
 Is Finished Item,是成品
 Balance Serial No,剩余序列号
 Include Safety Stock in Required Qty Calculation,包含安全库存
-Item {0}: {1} qty produced. ,物料{0}：已生产数量：{1}。
+Item {0}: {1} qty produced.,物料{0}：已生产数量：{1}。
 "Discounts to be applied in sequential ranges like buy 1 get 1, buy 2 get 2, buy 3 get 3 and so on",按适用数量范围计算折扣，如买1送1，买2送2，买3送3等
 Is Recursive,递归
 Rate of Stock UOM,单价(库存单位)
@@ -5113,7 +5111,7 @@ Workstation Type,工站类型
 Subcontracting Order,委外订单
 Subcontracting Receipt,委外入库
 Subcontracting Purchase Order,委外采购
-Distribute Additional Costs Based On ,额外费用分摊方式
+Distribute Additional Costs Based On,额外费用分摊方式
 Raw Material Cost Per Qty,每单位原材料成本
 Service Cost Per Qty,每单位加工费
 Additional Cost Per Qty,每单位其它成本
@@ -5154,7 +5152,7 @@ Subcontracting Settings,委外设置
 Invoice and Billing,发票与账单
 Invoicing Features,发票功能
 Invoice Cancellation,发票取消
-Allow multi-currency invoices against single party account ,允许同一往来单位发票多货币
+Allow multi-currency invoices against single party account,允许同一往来单位发票多货币
 Accounts Closing,会计关账
 Allow Lead Duplication based on Emails,允许基于相同邮箱创建多个线索
 Close Replied Opportunity After Days,自动关闭已回复商机天数
@@ -5205,7 +5203,6 @@ Opportunity Amount (Company Currency),商机金额(公司货币)
 Configuration,配置
 Process Loss,制程损耗
 % Process Loss,制程损耗%
-Returned Qty ,退回数量
 Select the Warehouse,请先选择仓库
 Other Info,更多信息
 Is Cash or Non Trade Discount,是现金或非贸易折扣
@@ -5377,7 +5374,7 @@ Consumption Rate,出库成本价
 (H) Valuation Rate,(H) 成本价
 Advance payments allocated against orders will only be fetched,仅获取关联了订单的预付款
 Adjustment Against,源单
-Finished Good Quantity ,成品数量
+Finished Good Quantity,成品数量
 No Unreconciled Invoices and Payments found for this party and account,未找到待核销发票与收付款凭证
 Disable Document Sharing,禁用单据表单/详情界面左侧栏分享功能
 Login with email link,启用邮件中链接登录
@@ -5439,7 +5436,7 @@ Get Outstanding Orders,选未关闭订单
 Is Group Warehouse,是父仓库
 Transit,中转
 Account Closing Balance,科目结账余额
-Financial reports will be generated using GL Entry doctypes (should be enabled if Period Closing Voucher is not posted for all years sequentially or missing) ,如果之前年度未按顺序或没做过期末结账凭证，请勾选，这样财务报表数据源就是总账明细而不是上年余额加本年明细
+Financial reports will be generated using GL Entry doctypes (should be enabled if Period Closing Voucher is not posted for all years sequentially or missing),如果之前年度未按顺序或没做过期末结账凭证，请勾选，这样财务报表数据源就是总账明细而不是上年余额加本年明细
 Submit ERR Journals?,直接提交自动创建的汇率重估日记账凭证
 Use Company Default Round Off Cost Center,使用公司默认小数精度尾差成本中心
 Packed Qty,装箱数量
@@ -5768,7 +5765,7 @@ Use STARTTLS,使用TLS
 Folder Name,目录名
 IMAP Folder,收件箱目录
 Plan operations X days in advance,提交工单时最多提前多少天自动创建生产任务单
-"Partial stock can be reserved. For example, If you have a Sales Order of 100 units and the Available Stock is 90 units then a Stock Reservation Entry will be created for 90 units. ",允许预留部分订单数量，如库存数量90个，订单数量100个，允许为订单创建数量为90个的预留单
+"Partial stock can be reserved. For example, If you have a Sales Order of 100 units and the Available Stock is 90 units then a Stock Reservation Entry will be created for 90 units.",允许预留部分订单数量，如库存数量90个，订单数量100个，允许为订单创建数量为90个的预留单
 Get Backup Encryption Key,获取备份秘钥
 Backup Encryption Key,备份秘钥
 Percentage you are allowed to order beyond the Blanket Order quantity.,允许订单数量超关联的框架订单数量的百分比
@@ -5951,7 +5948,7 @@ Account Not Found,找不到科目
 Use Serial No / Batch Fields,启用明细行批号与序列号字段
 "On submission of the stock transaction, system will auto create the Serial and Batch Bundle based on the Serial No / Batch fields.",勾选后物料移动相关单据提交时系统会基于明细行中的批号与序列号自动创建序列号/批号主数据
 "If enabled, do not update serial / batch values in the stock transactions on creation of auto Serial 
- / Batch Bundle. ",如勾选，物料移动相关单据自动创建序列号/批号时不同步明细行的序列号与批号字段
+ / Batch Bundle.",如勾选，物料移动相关单据自动创建序列号/批号时不同步明细行的序列号与批号字段
 Scan Serial No,扫序列号
 "Don't encode HTML tags like &lt;script&gt; or just characters like &lt; or &gt;, as they could be intentionally used in this field",允许字段内容为原生html，即无须对&lt;script&gt;这样的 HTML 标签或者&lt; 或 &gt; 这样的字符进行编码/转义如& lt;
 Duplicate field,复制字段
@@ -6165,7 +6162,6 @@ Update Outstanding for Self,更新本单未付金额
 "Credit Note will update it's own outstanding amount, even if 'Return Against' is specified.",即使指定'源单'，在本单处理付款与核销
 "We can see {0} is made against {1}. If you want {1}'s outstanding to be updated, uncheck the '{2}' checkbox.","你基于源单 {1} 创建了  {0} . 如果希望更新 {1} 的未付金额, 取消勾选 '{2}' ."
 You can use {0} to reconcile against {1} later.,后续可使用 {0} 工具核销 {1} .
-Currency ,货币
 Amount that has been paid against this advance,本预支已付金额
 Pending (unpaid) amount from previous advances,之前预支未付金额
 Amount claimed via Expense Claim,费用报销申报金额
@@ -6287,8 +6283,7 @@ Serial and Batch Bundle {0} is already used in {1} {2}.,序列号/批号 {0} 已
 "For the {0}, no stock is available for the return in the warehouse {1}.",{0} : 仓库 {1} 中无可退货数量
 Reconcile on Advance Payment Date,预付款日核销
 "If <b>Enabled</b> - Reconciliation happens on the <b>Advance Payment posting date</b><br>
-If <b>Disabled</b> - Reconciliation happens on oldest of 2 Dates: <b>Invoice Date</b> or the <b>Advance Payment posting date</b><br>
-","如果 <b>勾选</b> - 基于 <b>预付款记账日</b>核销<br>
+If <b>Disabled</b> - Reconciliation happens on oldest of 2 Dates: <b>Invoice Date</b> or the <b>Advance Payment posting date</b><br>","如果 <b>勾选</b> - 基于 <b>预付款记账日</b>核销<br>
 如果 <b>不勾选</b> - 基于: <b>发票日</b> 或 <b>预付款记账时</b>两者中最晚日期核销<br>"
 Default Operating Cost Account,默认额外费用科目(物料移动)
 Enabling this ensures each Purchase Invoice has a unique value in Supplier Invoice No. field within a particular fiscal year,勾选后系统会针对同一财年采购发票供应商发票号进行唯一性检查
@@ -6358,7 +6353,7 @@ This is a Template BOM and will be used to make the work order for {0} of the it
 Update Salary Structures,更新工资结构
 Remove if Zero Valued,0金额不显示
 "If enabled, the component will not be displayed in the salary slip if the amount is zero",如勾选，金额为0时工资表上不显示
-"If enabled, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. ",如勾选，此构成项不计入收入和扣除，但可被其它构成项计算公式引用
+"If enabled, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted.",如勾选，此构成项不计入收入和扣除，但可被其它构成项计算公式引用
 Consider Marked Attendance on Holidays,考虑假期出勤
 "If enabled, deducts payment days for absent attendance on holidays. By default, holidays are considered as paid",如勾选，假期付款天数剔除假期，假期默认包含在付款天数内
 Salary Withholding,工资暂停发放
@@ -6429,7 +6424,6 @@ Accounts not set for Salary Component {0},请为薪资构成项 {0} 分派科目
 Is Recurring Additional Salary,是自动重复的额外薪水
 Salary Slips submitted for period from {0} to {1},期间：{0} - {1} 的工资单已提交
 Could not submit some Salary Slips: {},部分工资单 {} 未提交
-Additional Salary ,额外薪水
 Job Worker,委外供应商
 Job Worker Name,委外供应商名
 Job Worker Warehouse,委外仓库
@@ -6519,10 +6513,10 @@ Default Accounts,默认科目
 Group By Supplier,按供应商合并
 Invoice Date,开票日期
 "If enabled, the source and target warehouse in the Material Transfer Stock Entry must be different else an error will be thrown. If inventory dimensions are present, same source and target warehouse can be allowed but atleast any one of the inventory dimension fields must be different.",启用后，物料移动-直接调拨单中的源仓库和目标仓库必须不同，否则将抛出错误。如果存在库存辅助核算，则允许源仓库和目标仓库相同，但至少任一个库存辅助核算字段必须不同。
-Work Anniversaries ,工作周年纪念
+Work Anniversaries,工作周年纪念
 Prevent self approval for leaves even if user has permissions,即使有权限也不允许审批自己的请假
 Prevent self approval for expense claims even if user has permissions,即使有权限也不允许审批自己的费用报销
- Unlink Payment on Cancellation of Employee Advance,在取消员工预付款时解除付款关联
+Unlink Payment on Cancellation of Employee Advance,在取消员工预付款时解除付款关联
 Allow Supplier Quotation with Zero Quantity,允许供应商报价单的数量为零
 Allows users to submit Supplier Quotations with zero quantity. Useful when rates are fixed but the quantities are not. Eg. Rate Contracts.,允许用户提交数量为零的供应商报价单。在单价固定但数量不固定时很有用。例如：固定单价合同。
 Allow Request for Quotation with Zero Quantity,允许询价单的数量为零
@@ -6908,7 +6902,7 @@ Create Asset Category,创建资产类别
 Create Asset Item,创建资产物料
 Create Asset Location,创建资产地点
 Create Existing Asset,创建现有资产
- You are impersonating as another user.,您正在冒充其他用户。
+You are impersonating as another user.,您正在冒充其他用户。
 !=,!=
 """Company History""",“公司历史”
 """amended_from"" field must be present to do an amendment.",必须出现“modified_from”字段才能进行修改。
@@ -7004,8 +6998,7 @@ For e.g. 1 USD = 100 Cent","1货币 = [？]分
         <li>INV-.YYYY.-.{branch}.-.MM.-.####</li>
     </ul>
 </div>
-<br>
-","<div class=""well"">
+<br>","<div class=""well"">
     在框中编辑系列列表。规则：
     <ul>
         <li>每个系列前缀占一行。</li>
@@ -7065,8 +7058,7 @@ For e.g. 1 USD = 100 Cent","1货币 = [？]分
 <p>1. Add border to sections except the last section</p>
 
 <pre><code>.section-break { padding: 30px 0px; border-bottom: 1px solid #eee; }
-.section-break:last-child { padding-bottom: 0px; border-bottom: 0px;  }</code></pre>
-","<h3>自定义 CSS 帮助</h3>
+.section-break:last-child { padding-bottom: 0px; border-bottom: 0px;  }</code></pre>","<h3>自定义 CSS 帮助</h3>
 
 <p>注释：</p>
 
@@ -7153,8 +7145,7 @@ For e.g. 1 USD = 100 Cent","1货币 = [？]分
 			<td>Get value from another document.</td>
 		</tr>
 	</tbody>
-</table>
-","<h3>打印格式帮助</h3>
+</table>","<h3>打印格式帮助</h3>
 <hr>
 <h4>简介</h4>
 <p>打印格式是使用 Jinja 模板语言在服务器端渲染的。所有表单都可以访问<code>doc</code>对象，该对象包含正在格式化的文档的相关信息。你还可以通过<code>frappe</code>模块访问常用工具。</p>
@@ -7262,8 +7253,7 @@ Details
 
 <h4>Templating</h4>
 
-<p>Templates are compiled using the Jinja Templating Language. To learn more about Jinja, <a class=""strong"" href=""http://jinja.pocoo.org/docs/dev/templates/"">read this documentation.</a></p>
-","<h4>电子邮件回复示例</h4>
+<p>Templates are compiled using the Jinja Templating Language. To learn more about Jinja, <a class=""strong"" href=""http://jinja.pocoo.org/docs/dev/templates/"">read this documentation.</a></p>","<h4>电子邮件回复示例</h4>
 
 <pre>订单逾期
 
@@ -7286,8 +7276,7 @@ Details
 "<h5 class=""text-muted uppercase"">Or</h5>","<h5 class=""text-muted uppercase"">或者</h5>"
 "<p><strong>{{ __(""Condition Examples"") }}:</strong></p>
 <pre><code class=""language-python"">doc.status==""Open""<br>doc.due_date==nowdate()<br>doc.total &gt; 40000
-</code></pre>
-","<p><strong>{{ __(""Condition Examples"") }}:</strong></p>
+</code></pre>","<p><strong>{{ __(""Condition Examples"") }}:</strong></p>
 <pre><code class=""language-python"">doc.status==""Open""<br>doc.due_date==nowdate()<br>doc.total &gt; 40000
 </code></pre>
 "
@@ -7298,8 +7287,7 @@ Details
 </pre>"
 "<p>Multiple webforms can be created for a single doctype. Add filters specific to this webform to display correct record after submission.</p><p>For Example:</p>
 <p>If you create a separate webform every year to capture feedback from employees add a 
- field named year in doctype and add a filter <b>year = 2023</b></p>
-","<p>可为单一类型创建多个网络表单。为该网络表单添加特定筛选器，以便在提交后显示正确的记录。</p><p>例如</p>
+ field named year in doctype and add a filter <b>year = 2023</b></p>","<p>可为单一类型创建多个网络表单。为该网络表单添加特定筛选器，以便在提交后显示正确的记录。</p><p>例如</p>
 <p>如果您每年都创建一个单独的网络表格来收集员工的反馈意见，请在 doctype 中添加一个名为年份的 
  字段，并添加过滤器<b>年份 = 2023</b></p>
 "
@@ -7331,8 +7319,7 @@ some_class_element.textContent = ""New content"";
 
 * - Any value
 / - Step values
-</pre>
-","<pre>* * * * *
+</pre>","<pre>* * * * *
 ┬ ┬ ┬ ┬ ┬
 │ │ │ │ │
 │ │ │ │ └ 星期几 (0 - 6)（0 为星期日）
@@ -8166,8 +8153,7 @@ Do not create new user if user with email does not exist in the system,如果系
 Do not warn me again about {0},不再就{0}向我发出警告
 "DocStatus of the following states have changed:<br><strong>{0}</strong><br>
 				Do you want to update the docstatus of existing documents in those states?<br>
-				This does not undo any effect bought in by the document's existing docstatus.
-				","以下状态的文档状态已更改：<br><strong>{0}</strong><br>
+				This does not undo any effect bought in by the document's existing docstatus.","以下状态的文档状态已更改：<br><strong>{0}</strong><br>
 				您想更新这些状态下现有文档的 docstatus 吗？<br>
 				这不会消除文档现有 docstatus 所带来的任何影响。
 				"
@@ -9351,7 +9337,7 @@ OR,或
 OTP SMS Template,OTP短信模板
 OTP SMS Template must contain <code>{0}</code> placeholder to insert the OTP.,OTP SMS 模板必须包含 <code>{0}</code> 占位符才能插入 OTP。
 OTP Secret Reset - {0},OTP密钥重置 - {0}
-OTP placeholder should be defined as <code>{{ otp }}</code> ,OTP placeholder should be defined as <code>{{ otp }}</code>
+OTP placeholder should be defined as <code>{{ otp }}</code>,OTP placeholder should be defined as <code>{{ otp }}</code>
 OTP setup using OTP App was not completed. Please contact Administrator.,使用OTP应用的OTP设置未完成。请联系管理员。
 Occurrences,发生次数
 Occurrences (last 30 days),发生次数（过去 30 天）
@@ -9444,8 +9430,7 @@ Page Margins,页面边距
 Page Number,页码
 Page Route,页面路由
 Page height and width cannot be zero,页面高度和宽度不能为零
-"Page to show on the website
-","在网站上显示的页面
+Page to show on the website,"在网站上显示的页面
 "
 Parameter,参数
 Parent Document Type,父文档类型
@@ -11118,8 +11103,7 @@ yyyy-mm-dd,年-月-日
 {} not found in PATH! This is required to access the console.,PATH中未找到{}！访问控制台需要此组件
 {} not found in PATH! This is required to restore the database.,PATH中未找到{}！恢复数据库需要此组件
 {} not found in PATH! This is required to take a backup.,PATH中未找到{}！执行备份需要此组件
-"
-			The Batch {0} of an item {1} has negative stock in the warehouse {2}{3}.
+"The Batch {0} of an item {1} has negative stock in the warehouse {2}{3}.
 			Please add a stock quantity of {4} to proceed with this entry.
 			If it is not possible to make an adjustment entry, please enable 'Allow Negative Stock for Batch' in the batch {0} or in the Stock Settings to proceed.
 			However, enabling this setting may lead to negative stock in the system.
@@ -11128,21 +11112,9 @@ yyyy-mm-dd,年-月-日
 			如果无法进行调整分录，请在批次 {0} 或库存设置中启用“允许批号为负库存”以继续。
 			但是，启用此设置可能会导致系统中出现负库存。
 			因此，请确保尽快调整库存水平，以维持正确的估值率。"
-  ,If enabled
- Address,地址
- Amount,金额
- BOM,物料清单
- Default Work In Progress Warehouse , 默认车间仓 
- Is Child Table,是否子表
- Is Subcontracted,是否外协
- Item,物料
- Name,名称
- Phantom Item,虚拟物料
- Rate,费率
- Raw Material,原材料
- Skip Material Transfer,跳过物料转移
- Sub Assembly,子装配件
- Summary,摘要
+,If enabled
+Default Work In Progress Warehouse, 默认车间仓 
+Sub Assembly,子装配件
 """SN-01::10"" for ""SN-01"" to ""SN-10""","""SN-01::10"" 表示从 ""SN-01"" 到 ""SN-10"""
 % Complete Method,完成百分比法
 % Cost Allocation,成本分配百分比
@@ -11403,8 +11375,7 @@ You can use <a href=""https://jinja.palletsprojects.com/en/2.11.x/"" target=""_b
 
 &lt;a href=""{{ payment_url }}""&gt; click here to pay &lt;/a&gt;
 
-</pre>
-","<pre><h5>信息示例</h5>
+</pre>","<pre><h5>信息示例</h5>
 
 &lt;p&gt; 感谢您成为 {{ doc.company }}的一员！希望您能享受我们的服务。&lt;/p&gt;
 
@@ -11424,8 +11395,7 @@ You can use <a href=""https://jinja.palletsprojects.com/en/2.11.x/"" target=""_b
 
 &lt;a href=""{{ payment_url }}""&gt; click here to pay &lt;/a&gt;
 
-</pre>
-","<pre><h5>消息示例</h5>
+</pre>","<pre><h5>消息示例</h5>
 
 &lt;p&gt;亲爱的 {{ doc.contact_person }}，&lt;/p&gt;
 
@@ -11482,14 +11452,7 @@ You can use <a href=""https://jinja.palletsprojects.com/en/2.11.x/"" target=""_b
 </tr>
 
 </tbody>
-</table>
-
-
-
-
-
-
-","<table class=""table table-bordered table-condensed"">
+</table>","<table class=""table table-bordered table-condensed"">
 <thead>
   <tr>
          <th class=""table-sr"" style=""width: 50%;"">子文档</th>
@@ -12206,8 +12169,7 @@ Bisecting To,分割结束
 Biweekly,双周
 Black,黑
 Blank Line,空行
-"Blocks all further accounting entries on this customer's account. Only users with the frozen-entries role can override.
-",阻止该客户科目上的所有进一步会计分录。只有具有冻结条目角色的用户才能覆盖。
+Blocks all further accounting entries on this customer's account. Only users with the frozen-entries role can override.,阻止该客户科目上的所有进一步会计分录。只有具有冻结条目角色的用户才能覆盖。
 Blocks this customer from being used on any new transaction.,阻止该客户用于任何新交易。
 Blog Subscriber,博客订阅者
 Blood Group,血型
@@ -12512,7 +12474,7 @@ Closing Balance as per statement,根据报表期末余额
 Closing Balance as per system,系统期末余额
 Closing Date,结算日期
 Closing Text,结语文本
-Closing [Opening + Total] ,期末 [期初 + 总计］ 
+Closing [Opening + Total],期末 [期初 + 总计］ 
 Closing balance as per system,按系统期末余额
 Closing balance deleted.,期末余额已删除。
 Closing balance is required.,需要期末余额。
@@ -12603,7 +12565,6 @@ Consider Process Loss,考量工艺损耗
 Consider Projected Qty in Calculation,计算时考量预计数量
 Consider Projected Qty in Calculation (RM),计算时考量预计数量（原材料）
 Consider Tax or Charge for,用途
-Consider for Tax Withholding ,考虑预扣税
 Consolidated,合并
 Consolidated Credit Note,合并贷项凭证
 Consolidated Financial Statement,合并财务报表
@@ -12825,7 +12786,6 @@ Custom API,定制API
 Custom Remark,自定义备注
 Custom Remarks,自定义备注
 Customer,客户
-Customer ,客户 
 Customer Acquisition and Loyalty,客户获得和忠诚度
 Customer Address,客户地址
 Customer Advances,客户预付款
@@ -12842,7 +12802,7 @@ Customer Items,客户物料
 Customer LPO,客户采购订单号
 Customer LPO No.,客户采购订单号
 Customer Name,客户名称
-Customer Name: ,客户名称：
+Customer Name:,客户名称：
 Customer Number,客户编号
 Customer Number At Supplier,供应商端客户编号
 Customer Numbers,客户编号列表
@@ -12864,7 +12824,7 @@ Customer required for 'Customerwise Discount',”客户折扣“需要指定客�
 Customer {0} does not belong to project {1},客户{0}不属于项目{1}
 Customer's Purchase Order,客户采购订单
 Customer/Lead Name,客户/销售线索名称
-Customer: ,客户：
+Customer:,客户：
 Customerwise Discount,客户折扣
 Cycle/Second,周期/秒
 D - E,D - E
@@ -12876,7 +12836,6 @@ Data Based On,数据依据
 Data Import Configuration,数据导入配置
 Data Source,数据来源
 Data fetch method,数据获取方式
-Date ,日期 
 Date Of Retirement,退休日期
 Date Settings,日期设定
 Date must be between {0} and {1},日期必须在{0}至{1}之间
@@ -13125,7 +13084,6 @@ DocTypes with a company field:,带有公司字段的 DocTypes：
 DocTypes without a company field:,没有公司字段的单据类型：
 Document Count,文件数量
 Document No,文件编号
-Document Type ,文档类型 
 Document Type already used as a dimension,文档类型已作为维度使用
 Don't Create Loyalty Points,不创建忠诚度积分
 Don't Enforce Free Item Qty,不强制赠品数量
@@ -13206,7 +13164,7 @@ Ells (UK),埃尔（英国）
 Email Address (required),电子邮件地址（必填）
 "Email Address must be unique, it is already used in {0}",电子邮件地址必须唯一，已在{0}中使用
 Email Campaign Error,电子邮件营销活动错误
-Email Campaign For ,针对的电子邮件营销
+Email Campaign For,针对的电子邮件营销
 Email Campaign Send Error,电子邮件营销活动发送错误
 Email Details,邮件详情
 Email Digest: {0},邮件摘要：{0}
@@ -13222,7 +13180,6 @@ Email:,邮件:
 Emails Queued,邮件已排队
 Emergency Phone,紧急电话
 Employee,员工
-Employee ,员工 
 Employee Advance,员工预支
 Employee Advances,员工预支
 Employee Benefits Obligation,员工福利义务
@@ -13367,7 +13324,6 @@ Executive Search,猎头
 Exempt Supplies,免税供应
 Exempted Role,豁免角色
 Existing Asset,现有资产
-Existing Company ,现有公司 
 Existing transactions in the system belonging to the same bank account and date range,系统中属于同一银行账户和日期范围的现有交易
 Expected Amount,预期金额
 Expected Balance Qty,预期结余数量
@@ -13572,7 +13528,6 @@ From Fiscal Year cannot be greater than To Fiscal Year,从会计年度开始不�
 From No,来自No
 From Posting Date,过账日期起
 From Reference Date,参考日期起
-From Time ,起始时间
 From Value,起始值
 From and To dates are required,必须填写起始和截止日期
 From date cannot be greater than To date,起始日期不能晚于截止日期
@@ -13691,7 +13646,6 @@ Hand,手
 Handle Employee Advances,处理员工预支款
 Hardware,硬件
 Has Alternative Item,存在替代物料
-Has Certificate ,持有证书
 Has Corrective Cost,有返工成本
 Has Print Format,有打印格式
 Has Subcontracted,已外包
@@ -14373,9 +14327,7 @@ Minimum Order Quantity,最小起订量
 Minimum Payment Amount,最小付款金额
 Minimum Qty,最小数量
 Minimum Value,最小值
-"Minimum quantity should be as per Stock UOM
-
-",最小数量应符合库存计量单位。
+Minimum quantity should be as per Stock UOM,最小数量应符合库存计量单位。
 Minute,分钟
 Miscellaneous,杂项
 Miscellaneous Expenses,杂项费用
@@ -14580,7 +14532,6 @@ Note: Email will not be sent to disabled users,注意：邮件不会发送给已
 "Note: If you want to use the finished good {0} as a raw material, then enable the 'Do Not Explode' checkbox in the Items table against the same raw material.",注意：若需将产成品{0}作为原材料使用，请在物料表中对应的原材料行启用“不展开”复选框。
 "Note: To merge the items, create a separate Stock Reconciliation for the old item {0}",注：要合并物料，请为旧物料{0}创建单独的库存对账
 Notes HTML,备注HTML
-Notes: ,备注：
 Nothing more to show.,没有更多内容。
 Notice (days),通告（天）
 Notify Customers via Email,通过电子邮件通知客户
@@ -14623,7 +14574,7 @@ Ongoing Job Cards,进行中的作业卡
 Online Auctions,网上拍卖
 Only CSV and Excel files can be used to for importing data. Please check the file format you are trying to upload,仅支持CSV和Excel文件格式导入数据，请检查上传文件格式
 Only CSV files are allowed,仅允许 CSV 文件
-Only Deduct Tax On Excess Amount ,仅对超额部分扣税
+Only Deduct Tax On Excess Amount,仅对超额部分扣税
 Only Parent can be of type {0},只有上级可以是{0}类型
 Only Value available for Payment Entry,仅限付款凭证可用值
 Only existing assets,仅现有资产
@@ -14640,11 +14591,8 @@ Open Call Log,打开通话记录
 Open Contact,打开联系人
 Open Event,打开事件
 Open Form View,打开表单视图
-Open Issues ,打开问题
 Open Item {0},打开物料{0}
-Open Projects ,打开项目
 Open Task,打开任务
-Open To Do ,打开待办
 Open Work Order {0},打开工单{0}
 Open the settings dialog,打开设置对话框
 Open {0} in a new tab,在新标签页中打开 {0}
@@ -14682,7 +14630,6 @@ Opportunities by Source,按来源统计的商机
 Opportunity Lost Reason Detail,商机丢失原因详情
 Opportunity Owner,商机负责人
 Opportunity Source,商机来源
-Opportunity Summary by Sales Stage ,按销售阶段汇总商机
 Opportunity Value,商机价值
 Opportunity {0} created,商机 {0} 已创建
 Optimize Route,优化路线
@@ -15351,7 +15298,6 @@ Project Update,项目更新
 Project Update.,项目更新。
 Project Value,项目价值
 Project activity / task.,项目活动/任务。
-Project wise Stock Tracking ,项目维度库存跟踪
 Projects Setup,项目设置
 Promotional Scheme,促销计划
 Promotional Scheme Id,促销计划ID
@@ -15392,7 +15338,6 @@ Purchase Order number required for Item {0},请为物料{0}指定采购订单号
 Purchase Order {0} created,采购订单{0}已创建
 Purchase Order {0} is not submitted,采购订单{0}未提交
 Purchase Receipt Required for item {},物料{}需要采购收货单
-Purchase Receipt Trends ,采购入库趋势 
 Purchase Receipt {0} created.,采购收货单{0}已创建
 Purchase Return,采购退货
 Purchase Time,采购时间
@@ -15413,7 +15358,6 @@ Q2,Q2
 Q3,第三季度
 Q4,第四季度
 Qty,数量
-Qty ,数量
 Qty (As per BOM),物料清单需求数量
 Qty (Company),数量（公司）
 Qty (Warehouse),数量（仓库）
@@ -15486,7 +15430,7 @@ Quotation {0} is cancelled,报价{0}已被取消
 Quotation {0} not of type {1},报价{0} 不属于{1}类型
 Quotations,报价
 "Quotations are proposals, bids you have sent to your customers",报价是你发送给客户的建议或出价
-Quotations: ,报价单：
+Quotations:,报价单：
 Quote Status,报价状态
 Quoted Amount,报价金额
 RFQ and Purchase Order Settings,询价和采购订单设置
@@ -15612,7 +15556,6 @@ Regenerate Stock Closing Entry,重新生成库存结账分录
 Regex,正则表达式
 Regional,区域性
 Regular,定期
-Rejected ,已拒绝 
 Rejected Qty,拒收数量
 Rejected Quantity,拒收数量
 Rejected Serial No,拒收序列号
@@ -15746,7 +15689,7 @@ Right Child,右子节点
 Right Index,右索引
 Ringing,铃声
 Rod,杆
-Role Allowed to over bill ,可超额开票的角色
+Role Allowed to over bill,可超额开票的角色
 Role allowed to bypass credit limit,不受信用额度限制的角色
 Role allowed to bypass period restrictions.,允许角色绕过期限限制。
 Role allowed to create/edit back-dated transactions,允许事后补单的角色
@@ -16032,7 +15975,6 @@ Sales Order {0} is not available for production,销售订单 {0} 不可用于生
 Sales Order {0} is not submitted,销售订单{0}未提交
 Sales Order {0} is not valid,销售订单{0}无效
 Sales Orders Required,需要销售订单
-Sales Partner ,销售合作伙伴 
 Sales Person <b>{0}</b> is disabled.,销售员<b>{0}</b>已被停用。
 Sales Pipeline,销售渠道
 Sales Pipeline by Stage,销售管道按阶段
@@ -16113,7 +16055,7 @@ Select Date of Birth. This will validate Employees age and prevent hiring of und
 "Select Date of joining. It will have impact on the first salary calculation, Leave allocation on pro-rata bases.",选择入职日期。这将影响首次薪资计算及按比例分配的年假额度。
 Select Default Supplier,选择默认供应商
 Select Dimension,选择维度
-Select Dispatch Address ,选择发货地址
+Select Dispatch Address,选择发货地址
 Select Employees,选择员工
 Select Finished Good,选择产成品
 Select Items to Receive,选择要接收的物料
@@ -16914,7 +16856,7 @@ Total Liability,总负债
 Total Message(s),总信息（s ）
 Total Monthly Sales,每月销售总额
 Total Net Weight,总净重
-Total Number of Booked Depreciations ,已计提折旧总数
+Total Number of Booked Depreciations,已计提折旧总数
 Total Only,仅显示合计
 Total Operating Cost,总营运成本
 Total Order Considered,总订货
@@ -17069,7 +17011,6 @@ Unset Matched Payment Request,取消匹配付款申请
 Unsupported Feature,不支持的功能
 Unverified Webhook Data,未经验证的Webhook数据
 Up,上
-Upcoming Calendar Events ,即将到来的日历事件
 Update Additional Information,更新附加信息
 Update Auto Repeat Reference,更新自动重复参考
 Update BOM Cost Automatically,自动更新BOM成本
@@ -17567,7 +17508,7 @@ via BOM Update Tool,通过物料清单更新工具
 {} invoices,{} 发票
 {} is a child company.,{}是子公司
 {} {} is not affecting bank account {},{} {}未影响银行账户{}
- Salary slips starting on or after this date will be considered for arrear calculations,起始日期在此日期及之后的工资条将纳入欠薪计算范围
+Salary slips starting on or after this date will be considered for arrear calculations,起始日期在此日期及之后的工资条将纳入欠薪计算范围
 """From Date"" can not be greater than or equal to ""To Date""",“起始日期”不能大于等于“结束日期”
 % Utilization (B + NB) / T,利用率%（基本 + 非基本）/ 总时长
 % Utilization (B / T),利用率%（基本 / 总时长）
@@ -17701,7 +17642,6 @@ Add unused leaves from previous leave period's allocation to this allocation,将
 Added tax components from the Salary Component master as the salary structure didn't have any tax component.,薪资结构未配置税费组件，已自动从主薪资组件中添加税费项
 Added to details,已添加至明细
 Additional Amount,附加金额
-Additional Information ,补充信息
 Additional PF,附加公积金
 Additional Salary,附加薪资
 Additional Salary for referral bonus can only be created against Employee Referral with status {0},推荐奖金类附加薪资只能针对状态为{0}的员工推荐创建
@@ -17910,7 +17850,7 @@ Company Information,公司信息
 Compensatory Leave Request,补休申请
 Compensatory Off,调休
 Completing onboarding,完成入职流程
-Component properties and references ,组件属性及引用
+Component properties and references,组件属性及引用
 Condition & Formula,条件与公式
 Condition and formula,条件与公式
 Conditions and Formula variable and example,条件公式变量及示例
@@ -17943,11 +17883,11 @@ Creation of Salary Structure Assignments has been queued. It may take a few minu
 Creation of {0} has been queued. It may take a few minutes.,{0}创建已加入队列，可能需要几分钟时间
 Currency of selected Income Tax Slab should be {0} instead of {1},所选所得税税级的币种应为{0}而非{1}
 Current Count,当前数量
-Current Employer ,当前雇主
+Current Employer,当前雇主
 Current Job Title,当前职位
 Current Month Income Tax,本月所得税
 Current Odometer Value should be greater than Last Odometer Value {0},当前里程表读数应大于上次读数{0}
-Current Odometer value ,当前里程表读数
+Current Odometer value,当前里程表读数
 Current Openings,当前空缺职位
 Current Payroll Period,当前薪资期间
 Current Slab,当前税级
@@ -18058,7 +17998,7 @@ Employee Referral,员工推荐
 Employee Referral {0} already exists for email: {1},电子邮件的员工推荐 {0} 已存在：{1}
 Employee Referral {0} is not applicable for referral bonus.,员工推荐{0}不符合推荐奖金条件
 Employee Referrals,员工推荐记录
-Employee Responsible ,责任人
+Employee Responsible,责任人
 Employee Separation,员工离职
 Employee Separation Template,员工离职模板
 Employee Settings,员工设置
@@ -18196,18 +18136,17 @@ Filled,已填写
 Filter by Shift,按班次筛选
 Final Score,最终得分
 Final Score Formula,最终得分公式
-First Name ,名字
 Fixed Hourly Rate,固定小时费率
 Flexible Benefit,弹性福利
 Flexible Benefits,弹性福利
 Flexible Component,弹性组件
 Follow via Email,邮件关注
 Food,餐饮
-For Designation ,适用于职级
+For Designation,适用于职级
 For Employee,员工专属
 "For a day of leave taken, if you still pay (say) 50% of the daily salary, then enter 0.50 in this field.",若员工请假当天仍支付（例如）50%日薪，则在此字段输入0.50
 Formula,公式
-Fraction of Applicable Earnings ,适用收入比例
+Fraction of Applicable Earnings,适用收入比例
 Fraction of Daily Salary for Half Day,半日假薪资比例
 Fraction of Daily Salary per Leave,单日假薪资扣除比例
 Fractional Cost,分摊成本
@@ -18376,7 +18315,7 @@ KRA updated for all child goals.,所有子目标KRA已更新
 Key Responsibility Area,关键责任区
 Key Result Area,关键成果领域
 LWP Days Reversed ({0}) does not match actual Payroll Corrections total ({1}) for employee {2} from {3} to {4},员工{2}从{3}到{4}的LWP天数冲销（{0}）与实际薪资调整总额（{1}）不匹配
-Last Odometer Value ,上次里程表读数
+Last Odometer Value,上次里程表读数
 Last {0} was at {1},最后一次{0}时间为{1}
 Late Entries,迟到记录
 Late Entry By,迟到处理人
@@ -18492,9 +18431,7 @@ Monthly Attendance Sheet,月度考勤表
 More than one selection for {0} not allowed,{0}不允许选择多个选项
 Multiple Additional Salaries with overwrite property exist for Salary Component {0} between {1} and {2}.,薪资组件{0}在{1}至{2}期间存在多个具有覆盖属性的附加薪资
 Multiple Shift Assignments,多班次分配
-"Multipliers that adjust the hourly overtime amount for specific scenarios
-
-","针对特定场景调整小时加班费的乘数
+Multipliers that adjust the hourly overtime amount for specific scenarios,"针对特定场景调整小时加班费的乘数
 
 "
 My Advances,我的预支
@@ -18781,7 +18718,6 @@ Reject Employee Referral,拒绝员工推荐
 Rejection,拒绝
 Release Withheld Salaries,发放代扣薪资
 Released,已发放
-Relieving Date ,离职日期
 Relieving Date Missing,缺失离职日期
 Remaining Benefits (Yearly),剩余福利（年度）
 Rented Car,租用车辆
@@ -18823,7 +18759,6 @@ Row {0}: From (Year) can not be greater than To (Year),行号{0}：起始年份�
 Row {0}: Goal Score cannot be greater than {1},第{0}行：目标评分不能大于{1}
 Row {0}: Paid amount {1} is greater than pending accrued amount {2} against loan {3},行号{0}：已付金额{1}超过贷款{3}的待计金额{2}
 Row {0}: {1},行号{0}：{1}
-Salary Component ,薪资组件
 Salary Component Account,薪资组件账户
 Salary Component Based,基于工资组件
 Salary Component {0} cannot be selected more than once in Employee Benefits,工资组件{0}在员工福利中不能重复选择
@@ -18995,7 +18930,7 @@ Team Requests,团队申请
 Team Updates,团队动态
 Thank you for applying.,感谢您的申请。
 The currency of {0} should be same as the company's default currency. Please select another account.,账户{0}的币种需与公司默认币种一致。请选择其他账户
-The date on which Salary Component with Amount will contribute for Earnings/Deduction in Salary Slip. ,薪资组件金额计入工资条收入/扣除项的日期
+The date on which Salary Component with Amount will contribute for Earnings/Deduction in Salary Slip.,薪资组件金额计入工资条收入/扣除项的日期
 The day(s) on which you are applying for leave are holidays. You need not apply for leave.,申请日期为节假日，无需请假
 The days between {0} to {1} are not valid holidays.,{0}至{1}期间并非有效节假日
 The first Approver in the list will be set as the default Approver.,列表首位审批人将设为默认审批人
@@ -19244,7 +19179,6 @@ years,年
 {0} {1} {2}?,{0} {1} {2}?
 {0}. Check error log for more details.,{0}。检查错误日志以获取更多详细信息。
 {0}: From {0} of type {1},{0}：类型为{1}的{0}
-{} ,{} 
 {} Accepted,{} 已接受
 {} Draft,{} 草稿
 {} Unclaimed,{} 未认领
@@ -19297,15 +19231,15 @@ Receipt,资产收到,Asset Movement
 Transfer,资产移转,Asset Movement
 Reset Desktop Layout,重置桌面布局
 Edit Layout,编辑桌面布局
-"Is Subcontracted","受托加工","Sales Order"
-Subcontracted Quantity,"受托加工数量","Sales Order Item"
-"Is Customer Provided Item","是客供料"
+Is Subcontracted,受托加工,Sales Order
+Subcontracted Quantity,受托加工数量,Sales Order Item
+Is Customer Provided Item,是客供料
 Is Subcontracted Item,是委外/受托加工物料
 Freeze,冻结
 Save Current Filter,保存筛选器
 Scan Job Card Qrcode,扫描生产任务单二维码
-"if not checked, it will be excluded from send to manufacture,manual transfer it to WIP warehouse without refer to work order instead","如不勾选表示此物料不按工单发料，工单发料明细不包含它；需手动将其转入车间仓"
-"for equipment pool case, number of individual equipment","针对多台设备作为一个工站，这个是设备台数"
+"if not checked, it will be excluded from send to manufacture,manual transfer it to WIP warehouse without refer to work order instead",如不勾选表示此物料不按工单发料，工单发料明细不包含它；需手动将其转入车间仓
+"for equipment pool case, number of individual equipment",针对多台设备作为一个工站，这个是设备台数
 Physical SFG produced in-house,自制半成品
 "for subcontract case, ticked means this item excluded from the to-be sent to supplier raw material list",针对委外场景，勾选则委外发料明细不包含此物料
 Balance Sheet Settings,中国资产负责表设置
@@ -19365,3 +19299,416 @@ Pressure,压力
 Speed,速度
 Temperature,温度
 Volume,体积
+Allow All Party Type,允许所有往来单位类型
+Amount From,金额来源
+BS and PL Missing Account,资产负债表与利润表缺失科目
+Calculate Rows,行汇总计算
+Cash Flow Code,现金流量项目代码
+Cash Flow Items,现金流量项目
+Cash Flow Name,现金流量项目名称
+Cash Flow Subtotal,现金流量小计
+Cash Flow Type,现金流量类型
+Default Cash Flow Code,默认现金流量项目代码
+Default Party Type,默认往来单位类型
+Get Cash Flow Items,获取现金流量项目
+Is Outflow,是否为流出
+Manual Split,手工拆分
+Monthly Amount,月度金额
+Report Sequence,报表顺序号
+above_subtotal,以上小计
+last_period_balance,上期余额
+type_subtotal,分类汇总
+Disable,停用
+Notification Type,通知类型
+Valuation Type,计价类型
+Credit & Overdue Limits,信用额度与逾期额度
+Email me for these notification types,这些通知类型发送邮件给我
+Employee CTC Break-up,员工薪酬构成明细
+Employer Contributions,雇主缴款
+Holiday List Assignment,假期表分配
+Holidays in this month,本月假期
+Margin,毛利
+Pay Details,工资明细
+member_name,成员名称
+Accepted Job Applicants,已录用求职者
+Accounts Receivable / Payable Report,应收/应付账款报表
+Action for Expired Unverified Appointments,过期未确认预约的处理方式
+Active Customers,活跃客户
+Active Employees,在职员工
+Active RQ Worker,活跃 RQ 工作进程
+Active Suppliers,活跃供应商
+Allow Leave Application After (Calendar Days),可提前申请休假的天数(日历日)
+Annual Gross Earning,年度总收入
+Annual Purchase,年度采购额
+Annual Sales,年度销售额
+Applicant-to-Hire Percentage,录用率
+Application Web Form Route,应聘表单路由
+Appointment Booking Portal Settings,预约门户设置
+Appointment Scheduling,预约安排
+Approved Claims (This Month),已批准报销单(本月)
+Apps Involved,涉及的应用
+Assignment Starts From,分配起始日
+Auto Repost Incorrect Valuation Entries (Weekly),自动重算错误计价分录(每周)
+Auto Reposting of Incorrect Valuation,自动重算错误计价
+Average Sales Order Value,平均订单金额
+"Base, Variable & Leave Encashment",基本工资、浮动薪酬及休假兑现
+Benefit Application,福利申请
+Benefit Claim,福利报销
+Boarding Status,入职状态
+Book Stock Expense GL Entries,记录存货费用总账分录
+Clear Cache,清除缓存
+Created through Portal,通过门户创建
+Depth,层级深度
+"Disable ""Consider Accounting Dimension"" Filter","禁用""考虑会计维度""筛选器"
+Doc Values,文档值
+Duration (ms),耗时(毫秒)
+Email Verified,邮箱已验证
+Employee Company,员工所属公司
+Employee Hours Utilization,员工工时利用率
+Employees on leave this month,本月休假员工
+Employees on leave today,今日休假员工
+Enable Appointment Booking Through Portal,启用门户预约
+Enable Multi-Currency Expense Claims,启用多币种报销单
+Exemption Declaration,免税申报
+Exemption Submission Proof,免税申报凭证
+Expense Claims (This Month),报销单(本月)
+First Used On,首次使用日期
+General Ledger Report,总账报表
+Handlers,处理程序
+Hiring Pipeline,招聘管道
+Holiday List End,假期表结束日
+Holiday List Start,假期表起始日
+Interview Type Name,面试类型名称
+Job Offer Acceptance Rate,录用通知接受率
+Job Offers (This Month),录用通知(本月)
+Job Portal,招聘门户
+Key required,需要密钥
+Leave Balance Summary,假期余额汇总
+Leave Policy Name,休假政策名称
+Liability Account,负债科目
+Max Zip Extract Size (MB),最大 Zip 解压体积(MB)
+Notification Message,通知消息
+Notification Title,通知标题
+Number of Employees on Leave (This Month),休假员工数(本月)
+Number of Employees on Leave (Today),休假员工数(今日)
+Number of Events,事件数量
+Open Resume in New Tab,在新标签页打开简历
+Overdue Limit,逾期额度
+Pay via Payment Entry,通过付款单支付
+Prevent Duplicate Applications,防止重复申请
+Prevent Sales Invoice when Customer is Overdue,客户逾期时禁止开具销售发票
+Queries,查询次数
+Raw Method,原始方法
+Recipient & Status,收件人与状态
+Redact Message After Send,发送后脱敏消息内容
+Rejected Claims (This Month),已驳回报销单(本月)
+Rejected Job Applicants,已拒绝求职者
+Reposting Status,重算状态
+Role Allowed to Bypass Over Billing Restriction,可超出开票限制的角色
+Sales Orders Count,销售订单数
+Scheduled Jobs,计划任务
+Send Acknowledgement Email,发送确认邮件
+Sequence,顺序号
+Skip Next Execution,跳过下次执行
+Stage,阶段
+Stock Expense,存货费用
+Stock Expense Accounting,存货费用核算
+Sync In Batches,分批同步
+Task Name,任务名称
+Timesheet Working Hours,工时表工作时长
+Total Applicants (This Month),求职者总数(本月)
+Total Cost To Company (CTC),总人力成本(CTC)
+Total Declaration Submitted,已提交申报总数
+Total Incentive Given(Last month),上月发放奖金总额
+Total Incoming Bills,进项发票总额
+Total Incoming Payment,收款总额
+Total Outgoing Bills,销项发票总额
+Total Outgoing Payment,付款总额
+Total Outgoing Salary(Last month),上月工资发放总额
+Total Salary Structure,薪酬结构总数
+Total System Users,系统用户总数
+Total Website Users,网站用户总数
+Type Name,类型名称
+Use Serial No Wise Valuation,按序列号计价
+Verification Link Expiry Duration,验证链接有效期
+Verification Token,验证令牌
+Web Form Values,网页表单值
+Running,运行中
+% of Component Cost,占组件成本百分比
+Attachment Gallery,附件库
+Customer Form Tour,客户表单导览
+Delete Permanently,永久删除
+Employer Contribution,雇主缴款
+Mark as Closed,标记为已关闭
+On hold,暂缓
+Partially Reposted,部分重算
+Point Of Sale,销售点(POS)
+Reposted,已重算
+Setup Wizard,设置向导
+Shortlisted,已入围
+Supplier Form Tour,供应商表单导览
+Task Progress,任务进度
+Visual Plant Floor,可视化车间布局
+busy,忙碌
+idle,空闲
+Balance Sheet Settings Item,资产负债表设置明细
+Profit and Loss Statement Settings Item,利润表设置明细
+Cash Flow Item,现金流量表明细
+Accounts Payable Ageing,应付账款账龄分析
+Accounts Payable Standard,应付账款(标准格式)
+Accounts Payable Summary Standard,应付账款汇总(标准格式)
+Accounts Receivable Ageing,应收账款账龄分析
+Accounts Receivable Standard,应收账款(标准格式)
+Accounts Receivable Summary Standard,应收账款汇总(标准格式)
+Background Job Activity,后台任务活动
+Balance Sheet Standard,资产负债表(标准格式)
+Bank and Cash Payment Voucher,银行与现金付款凭证
+Cash Flow Statement Standard,现金流量表(标准格式)
+Cheque Printing Format,支票打印格式
+Claims by Type,按类型统计报销
+Delivery Note Standard,发货单(标准格式)
+Delivery Note with Item Image,发货单(含物料图片)
+Department Wise Salary(Last Month),部门工资统计(上月)
+Department wise Expense Claims,按部门统计报销单
+Designation Wise Openings,按职位统计空缺
+Designation Wise Salary(Last Month),按职位统计工资(上月)
+Detailed Tax Invoice,详细税务发票
+Drop Shipping Format,直接发货打印格式
+Email Activity,邮件活动
+Employee Advance Status,员工预支状态
+General Ledger Standard,总账(标准格式)
+HR Telemetry Milestone,人力资源遥测里程碑
+Human Resource,人力资源
+Incoming Bills (Purchase Invoice),进项发票(采购发票)
+Job Applicant Pipeline,求职者招聘管道
+Job Applicants by Country,按国家统计求职者
+Job Application Frequency,求职申请频次
+Job Application Status,求职申请状态
+Job Offer Status,录用通知状态
+Journal Auditing Voucher,日记账凭证
+Location-wise Asset Value,按地点统计资产价值
+Notification Type Preference,通知类型偏好
+Notifications By Type,按类型统计通知
+Outgoing Bills (Sales Invoice),销项发票(销售发票)
+P&L Statement Standard,利润表(标准格式)
+POS Invoice Standard,POS发票(标准格式)
+POS Invoice with Item Image,POS发票(含物料图片)
+Payment Receipt Voucher,收款凭证
+Purchase Auditing Voucher,采购记账凭证
+Purchase Invoice Standard,采购发票(标准格式)
+Purchase Invoice with Item Image,采购发票(含物料图片)
+Purchase Order Standard,采购订单(标准格式)
+Purchase Order with Item Image,采购订单(含物料图片)
+Purchase Receipt Serial and Batch Bundle Print,采购入库序列号与批次打印
+Purchase eInvoice,采购电子发票
+Quotation Standard,报价单(标准格式)
+Quotation with Item Image,报价单(含物料图片)
+Recorder Event,性能记录事件
+Request for Quotation with Item Image,询价单(含物料图片)
+Return POS Invoice,POS退货发票
+Salary Slip Classic,工资单(经典版)
+Salary Slip Compact,工资单(精简版)
+Salary Slip Detailed,工资单(详细版)
+Salary Slip Standard,工资单(标准格式)
+Salary Slip based on Timesheet,基于工时表的工资单
+Salary Slip with Year to Date,含年初至今累计的工资单
+Sales Auditing Voucher,销售记账凭证
+Sales Invoice Return,销售发票退货
+Sales Invoice Standard,销售发票(标准格式)
+Sales Invoice with Item Image,销售发票(含物料图片)
+Sales Order Standard,销售订单(标准格式)
+Sales Order with Item Image,销售订单(含物料图片)
+Simplified Tax Invoice,简易税务发票
+Standard Appointment Letter,标准聘用函
+Tax Invoice,税务发票
+Territory Wise Sales,按区域统计销售额
+Trial Balance Standard,试算平衡表(标准格式)
+Warehouse wise Stock Value,按仓库统计库存价值
+Web Form Request,网页表单请求
+Webpage Views,页面浏览量
+Check Missing Accounts,检查缺失科目
+Left Column,左列
+Right Column,右列
+Cash Flow Report,现金流量表
+Configuration Warnings,配置警告
+Download Cash Flow,下载现金流量表
+Logic Errors,逻辑错误
+{0}Row {1},{0}行 {1}
+GL Entry {0} total amount {1} does not match amount {2} in general ledger,总账分录 {0} 的金额合计 {1} 与总账中的 {2} 不一致
+Row {0} refers to non-existent row {1},第 {0} 行引用了不存在的第 {1} 行
+{0}: Account {1} already in {2},{0}：科目 {1} 已存在于 {2}
+{0}Row {1}: '{2}' is not a valid row number,{0}行 {1}：“{2}”不是有效的行号
+{0}Row {1}: Referenced row {2} does not exist,{0}行 {1}：所引用的第 {2} 行不存在
+Age as on,账龄截止日
+Include Revaluation Journals,包含重估日记账
+Invalid document type,无效的单据类型
+Invalid name,无效的名称
+Cannot apply taxes,无法应用税费
+API Method Path,API 方法路径
+Account Filter,科目筛选
+Calculation Formula,计算公式
+Cannot apply taxes from this address,无法从该地址应用税费
+Create GL Reposting Entries,创建总账重算分录
+Invalid POS Search Field,无效的 POS 搜索字段
+Invalid type,无效的类型
+Items must be a list of Item codes,物料必须是物料编码列表
+Select at least one Item,请至少选择一个物料
+Sending Email,正在发送邮件
+% Complete must be between 0 and 100,完成百分比必须在 0 到 100 之间
+Add atleast one voucher to repost.,请至少添加一张凭证以重新过账
+All Results,全部结果
+Appointment Confirmed,预约已确认
+Appointment is already verified.,预约已验证
+Bin Values Recalculated,库存值已重算
+Closed Period,已结账期间
+Completed Quantity cannot be negative,完成数量不能为负数
+Completed quantity cannot be negative.,完成数量不能为负数。
+Cost Center Validation Error,成本中心校验错误
+Disabled Price List,已停用价目表
+Duplicate POS Search Fields,重复的 POS 搜索字段
+Email couldn't be sent.,邮件发送失败
+Field and operator must be strings,字段和运算符必须是字符串
+Filter must be a list or dict,筛选条件必须是列表或字典
+Formula has unbalanced parentheses,公式括号不匹配
+GL Reposting Entries,总账重算分录
+Group by Item,按物料分组
+Income Account Validation Error,收入科目校验错误
+Incorrect Inventory Dimension,库存维度不正确
+Internal Customer Already Exists,内部客户已存在
+Internal Supplier Already Exists,内部供应商已存在
+Invalid JSON,无效的 JSON
+Invalid POS Field,无效的 POS 字段
+Invalid POS Fields,无效的 POS 字段
+Invalid Price List,无效的价目表
+Invalid Reading,无效读数
+Invalid Sample Size,无效的样本量
+Invalid Shipping Account,无效的运费科目
+Invalid Valuation Method,无效的计价方法
+Invalid address,无效地址
+Invalid doctype,无效的单据类型
+Invalid filter,无效的筛选条件
+Invalid reference,无效的引用
+Invalid tax master doctype,无效的税目主数据类型
+Make Payment,付款
+Missing Accounting Dimension,缺少会计维度
+Missing Company,缺少公司
+My Filter,我的筛选
+No Matching Vouchers Found,未找到匹配的凭证
+No account set,未设置科目
+Not Used,未使用
+Not permitted to update Serial No,不允许更新序列号
+Overdue Limit Crossed,已超出逾期额度
+Payment Link couldn't be sent.,支付链接发送失败
+Please select a warehouse first.,请先选择仓库
+Production Plan Quantity Exceeded,超出生产计划数量
+Qty to Manufacture in this Cycle,本周期生产数量
+Recalculate Values,重新计算数值
+Reconciliation Failed,对账失败
+Reposting Entries,重算分录
+Reversal Journal Entries,冲销日记账分录
+Reversal Of Exchange Rate Revaluation,汇率重估冲销
+Reversing Journals...,正在冲销日记账...
+Sample Size must be greater than zero,样本量必须大于零
+Select Supplier for Items,为物料选择供应商
+Serial Nos Exist,序列号已存在
+Set Supplier for All Items,为所有物料设置供应商
+Stock Closing Entry In Progress,存货结账凭证进行中
+Stock Closing Entry Outdated,存货结账凭证已过期
+Stock Closing Entry Required,需要存货结账凭证
+Stock Frozen,库存已冻结
+Stock Value Mismatch,库存价值不一致
+Sync Serial No Status,同步序列号状态
+Thank you for your business!,感谢您的惠顾！
+Unable to Repost Accounting Ledger,无法重算会计账簿
+Verification link has expired.,验证链接已过期
+Invalid Web Form Request,无效的网页表单请求
+A folder cannot have a File URL,文件夹不能有文件 URL
+Go to Access Control section,前往权限控制部分
+You must login to use this form,您必须先登录才能使用此表单
+Add attachment,添加附件
+Begin typing for results.,开始输入以获取结果
+Check the Error Log for details.,详情请查看错误日志
+Could not generate PDF,无法生成 PDF
+Delete Row,删除行
+Delete Table,删除表格
+Domain is required.,域名必填
+Generating PDF...,正在生成 PDF...
+Heading 1,标题 1
+Heading 2,标题 2
+Heading 3,标题 3
+Heading 4,标题 4
+Heading 5,标题 5
+Heading 6,标题 6
+Insert Column Left,在左侧插入列
+Insert Column Right,在右侧插入列
+Insert Row Above,在上方插入行
+Insert Row Below,在下方插入行
+Insert Table,插入表格
+Invitation resent,邀请已重新发送
+JSON value must be an object,JSON 值必须是对象
+Key Required,需要密钥
+Manage your preferences,管理您的偏好设置
+No attachments,无附件
+Only pending invitations can be resent,仅待处理的邀请可重新发送
+QZ Tray Connection Active!,QZ Tray 连接已激活！
+Quarter Day,季度日
+Request to your server failed.,请求服务器失败
+Save the document to attach files.,请先保存单据再添加附件
+Show Board,显示看板
+Single DocTypes cannot be renamed,单记录类型无法重命名
+Task id is required.,任务 ID 必填
+This Web Form Request has expired,此网页表单请求已过期
+This wont be captured,此项不会被记录
+Unable to load attachments.,无法加载附件
+Web Form Request key is required,网页表单请求密钥必填
+Web Form Request link copied,网页表单请求链接已复制
+You are not permitted to send SMS,您无权发送短信
+You created this document,您创建了此单据
+You last edited this document,您最后编辑了此单据
+visible_types must be a list,visible_types 必须是列表
+Bank/Cash Account Required,需要银行/现金科目
+Failed to download PDF,PDF 下载失败
+Schedule Interview,安排面试
+Advance Account Required,需要预支科目
+Amount Exceeds Available Balance,金额超过可用余额
+Assignment Failed,分配失败
+Attendance marked successfully.,考勤标记成功
+Back to Login,返回登录
+Bulk Assignment,批量分配
+CTC Missing for Employee,员工缺少总人力成本(CTC)
+Claim History,报销记录
+Create Job Offer,创建录用通知
+Current Password,当前密码
+Download Failed,下载失败
+Duplicate Application,重复申请
+Duplicate Assignment,重复分配
+Employee Exit,员工离职
+Employee not found,未找到员工
+Failed to send reset link,重置链接发送失败
+Failed to update password,密码更新失败
+How many employees do you have?,您有多少名员工？
+Interview scheduled successfully,面试安排成功
+Leave & Attendance,休假与考勤
+Leave Approver is mandatory,休假审批人必填
+Leave(s) Allocated,已分配假期
+Missing value for filters,筛选条件缺少值
+New passwords do not match,两次输入的新密码不一致
+Percent of CTC (%),CTC 百分比(%)
+Performance Management,绩效管理
+Please enter a valid email address,请输入有效的邮箱地址
+Please enter your email address,请输入您的邮箱地址
+Please fill all fields,请填写所有字段
+See CTC Break-up,查看薪酬构成明细
+Select Interview Type First,请先选择面试类型
+Send Reset Link,发送重置链接
+Shift Request History,排班申请记录
+Show Employer Contributions,显示雇主缴款
+Total Employer Contribution,雇主缴款合计
+View Additional Salary entries,查看额外薪资记录
+View Details,查看详情
+View Job Offer,查看录用通知
+View Leave Balance,查看假期余额
+What do you use for HR today?,您目前使用什么人力资源系统？
+Your password has been updated.,您的密码已更新
+payment days,计薪天数
+working days,工作天数

@@ -945,3 +945,1292 @@ msgstr "时间"
 
 msgid "Volume"
 msgstr "体积"
+msgid "Allow All Party Type"
+msgstr "允许所有往来单位类型"
+
+msgid "Amount From"
+msgstr "金额来源"
+
+msgid "BS and PL Missing Account"
+msgstr "资产负债表与利润表缺失科目"
+
+msgid "Calculate Rows"
+msgstr "行汇总计算"
+
+msgid "Cash Flow Code"
+msgstr "现金流量项目代码"
+
+msgid "Cash Flow Items"
+msgstr "现金流量项目"
+
+msgid "Cash Flow Name"
+msgstr "现金流量项目名称"
+
+msgid "Cash Flow Subtotal"
+msgstr "现金流量小计"
+
+msgid "Cash Flow Type"
+msgstr "现金流量类型"
+
+msgid "Default Cash Flow Code"
+msgstr "默认现金流量项目代码"
+
+msgid "Default Party Type"
+msgstr "默认往来单位类型"
+
+msgid "Get Cash Flow Items"
+msgstr "获取现金流量项目"
+
+msgid "Is Outflow"
+msgstr "是否为流出"
+
+msgid "Manual Split"
+msgstr "手工拆分"
+
+msgid "Monthly Amount"
+msgstr "月度金额"
+
+msgid "Report Sequence"
+msgstr "报表顺序号"
+
+msgid "above_subtotal"
+msgstr "以上小计"
+
+msgid "last_period_balance"
+msgstr "上期余额"
+
+msgid "type_subtotal"
+msgstr "分类汇总"
+msgid "Disable"
+msgstr "停用"
+
+msgid "Notification Type"
+msgstr "通知类型"
+
+msgid "Valuation Type"
+msgstr "计价类型"
+
+msgid "Credit & Overdue Limits"
+msgstr "信用额度与逾期额度"
+
+msgid "Distribute Additional Costs Based On"
+msgstr "附加费用分摊依据"
+
+msgid "Email me for these notification types"
+msgstr "这些通知类型发送邮件给我"
+
+msgid "Employee CTC Break-up"
+msgstr "员工薪酬构成明细"
+
+msgid "Employer Contributions"
+msgstr "雇主缴款"
+
+msgid "Holiday List Assignment"
+msgstr "假期表分配"
+
+msgid "Holidays in this month"
+msgstr "本月假期"
+
+msgid "Margin"
+msgstr "毛利"
+
+msgid "Pay Details"
+msgstr "工资明细"
+
+msgid "member_name"
+msgstr "成员名称"
+
+msgid "Accepted Job Applicants"
+msgstr "已录用求职者"
+
+msgid "Accounts Receivable / Payable Report"
+msgstr "应收/应付账款报表"
+
+msgid "Action for Expired Unverified Appointments"
+msgstr "过期未确认预约的处理方式"
+
+msgid "Active Customers"
+msgstr "活跃客户"
+
+msgid "Active Employees"
+msgstr "在职员工"
+
+msgid "Active RQ Worker"
+msgstr "活跃 RQ 工作进程"
+
+msgid "Active Suppliers"
+msgstr "活跃供应商"
+
+msgid "Allow Leave Application After (Calendar Days)"
+msgstr "可提前申请休假的天数(日历日)"
+
+msgid "Allow multi-currency invoices against single party account"
+msgstr "允许同一往来科目开具多币种发票"
+
+msgid "Annual Gross Earning"
+msgstr "年度总收入"
+
+msgid "Annual Purchase"
+msgstr "年度采购额"
+
+msgid "Annual Sales"
+msgstr "年度销售额"
+
+msgid "Applicant-to-Hire Percentage"
+msgstr "录用率"
+
+msgid "Application Web Form Route"
+msgstr "应聘表单路由"
+
+msgid "Appointment Booking Portal Settings"
+msgstr "预约门户设置"
+
+msgid "Appointment Scheduling"
+msgstr "预约安排"
+
+msgid "Approved Claims (This Month)"
+msgstr "已批准报销单(本月)"
+
+msgid "Apps Involved"
+msgstr "涉及的应用"
+
+msgid "Assignment Starts From"
+msgstr "分配起始日"
+
+msgid "Auto Repost Incorrect Valuation Entries (Weekly)"
+msgstr "自动重算错误计价分录(每周)"
+
+msgid "Auto Reposting of Incorrect Valuation"
+msgstr "自动重算错误计价"
+
+msgid "Average Sales Order Value"
+msgstr "平均订单金额"
+
+msgid "Base, Variable & Leave Encashment"
+msgstr "基本工资、浮动薪酬及休假兑现"
+
+msgid "Benefit Application"
+msgstr "福利申请"
+
+msgid "Benefit Claim"
+msgstr "福利报销"
+
+msgid "Boarding Status"
+msgstr "入职状态"
+
+msgid "Book Stock Expense GL Entries"
+msgstr "记录存货费用总账分录"
+
+msgid "Clear Cache"
+msgstr "清除缓存"
+
+msgid "Component properties and references"
+msgstr "组件属性与引用"
+
+msgid "Created through Portal"
+msgstr "通过门户创建"
+
+msgid "Current Employer"
+msgstr "当前雇主"
+
+msgid "Current Odometer value"
+msgstr "当前里程表读数"
+
+msgid "Default Work In Progress Warehouse"
+msgstr "默认在制品仓库"
+
+msgid "Depth"
+msgstr "层级深度"
+
+msgid "Disable \"Consider Accounting Dimension\" Filter"
+msgstr "禁用\"考虑会计维度\"筛选器"
+
+msgid "Doc Values"
+msgstr "文档值"
+
+msgid "Duration (ms)"
+msgstr "耗时(毫秒)"
+
+msgid "Email Campaign For"
+msgstr "邮件活动目标单据"
+
+msgid "Email Verified"
+msgstr "邮箱已验证"
+
+msgid "Employee Company"
+msgstr "员工所属公司"
+
+msgid "Employee Hours Utilization"
+msgstr "员工工时利用率"
+
+msgid "Employee Responsible"
+msgstr "负责员工"
+
+msgid "Employees on leave this month"
+msgstr "本月休假员工"
+
+msgid "Employees on leave today"
+msgstr "今日休假员工"
+
+msgid "Enable Appointment Booking Through Portal"
+msgstr "启用门户预约"
+
+msgid "Enable Multi-Currency Expense Claims"
+msgstr "启用多币种报销单"
+
+msgid "Exemption Declaration"
+msgstr "免税申报"
+
+msgid "Exemption Submission Proof"
+msgstr "免税申报凭证"
+
+msgid "Expense Claims (This Month)"
+msgstr "报销单(本月)"
+
+msgid "Finished Good Quantity"
+msgstr "产成品数量"
+
+msgid "First Used On"
+msgstr "首次使用日期"
+
+msgid "For Designation"
+msgstr "适用职位"
+
+msgid "Fraction of Applicable Earnings"
+msgstr "适用收入比例"
+
+msgid "General Ledger Report"
+msgstr "总账报表"
+
+msgid "Handlers"
+msgstr "处理程序"
+
+msgid "Hiring Pipeline"
+msgstr "招聘管道"
+
+msgid "Holiday List End"
+msgstr "假期表结束日"
+
+msgid "Holiday List Start"
+msgstr "假期表起始日"
+
+msgid "Interview Type Name"
+msgstr "面试类型名称"
+
+msgid "Job Offer Acceptance Rate"
+msgstr "录用通知接受率"
+
+msgid "Job Offers (This Month)"
+msgstr "录用通知(本月)"
+
+msgid "Job Portal"
+msgstr "招聘门户"
+
+msgid "Key required"
+msgstr "需要密钥"
+
+msgid "Last Odometer Value"
+msgstr "上次里程表读数"
+
+msgid "Leave Balance Summary"
+msgstr "假期余额汇总"
+
+msgid "Leave Policy Name"
+msgstr "休假政策名称"
+
+msgid "Liability Account"
+msgstr "负债科目"
+
+msgid "Max Zip Extract Size (MB)"
+msgstr "最大 Zip 解压体积(MB)"
+
+msgid "Notification Message"
+msgstr "通知消息"
+
+msgid "Notification Title"
+msgstr "通知标题"
+
+msgid "Number of Employees on Leave (This Month)"
+msgstr "休假员工数(本月)"
+
+msgid "Number of Employees on Leave (Today)"
+msgstr "休假员工数(今日)"
+
+msgid "Number of Events"
+msgstr "事件数量"
+
+msgid "Only Deduct Tax On Excess Amount"
+msgstr "仅对超出金额计税"
+
+msgid "Open Resume in New Tab"
+msgstr "在新标签页打开简历"
+
+msgid "Overdue Limit"
+msgstr "逾期额度"
+
+msgid "Pay via Payment Entry"
+msgstr "通过付款单支付"
+
+msgid "Prevent Duplicate Applications"
+msgstr "防止重复申请"
+
+msgid "Prevent Sales Invoice when Customer is Overdue"
+msgstr "客户逾期时禁止开具销售发票"
+
+msgid "Queries"
+msgstr "查询次数"
+
+msgid "Raw Method"
+msgstr "原始方法"
+
+msgid "Recipient & Status"
+msgstr "收件人与状态"
+
+msgid "Redact Message After Send"
+msgstr "发送后脱敏消息内容"
+
+msgid "Rejected Claims (This Month)"
+msgstr "已驳回报销单(本月)"
+
+msgid "Rejected Job Applicants"
+msgstr "已拒绝求职者"
+
+msgid "Reposting Status"
+msgstr "重算状态"
+
+msgid "Role Allowed to Bypass Over Billing Restriction"
+msgstr "可超出开票限制的角色"
+
+msgid "Role Allowed to over bill"
+msgstr "允许超额开票的角色"
+
+msgid "Sales Orders Count"
+msgstr "销售订单数"
+
+msgid "Scheduled Jobs"
+msgstr "计划任务"
+
+msgid "Select Dispatch Address"
+msgstr "选择发货地址"
+
+msgid "Send Acknowledgement Email"
+msgstr "发送确认邮件"
+
+msgid "Sequence"
+msgstr "顺序号"
+
+msgid "Skip Next Execution"
+msgstr "跳过下次执行"
+
+msgid "Stage"
+msgstr "阶段"
+
+msgid "Stock Expense"
+msgstr "存货费用"
+
+msgid "Stock Expense Accounting"
+msgstr "存货费用核算"
+
+msgid "Sync In Batches"
+msgstr "分批同步"
+
+msgid "Task Name"
+msgstr "任务名称"
+
+msgid "Timesheet Working Hours"
+msgstr "工时表工作时长"
+
+msgid "Total Applicants (This Month)"
+msgstr "求职者总数(本月)"
+
+msgid "Total Cost To Company (CTC)"
+msgstr "总人力成本(CTC)"
+
+msgid "Total Declaration Submitted"
+msgstr "已提交申报总数"
+
+msgid "Total Incentive Given(Last month)"
+msgstr "上月发放奖金总额"
+
+msgid "Total Incoming Bills"
+msgstr "进项发票总额"
+
+msgid "Total Incoming Payment"
+msgstr "收款总额"
+
+msgid "Total Number of Booked Depreciations"
+msgstr "已计提折旧总数"
+
+msgid "Total Outgoing Bills"
+msgstr "销项发票总额"
+
+msgid "Total Outgoing Payment"
+msgstr "付款总额"
+
+msgid "Total Outgoing Salary(Last month)"
+msgstr "上月工资发放总额"
+
+msgid "Total Salary Structure"
+msgstr "薪酬结构总数"
+
+msgid "Total System Users"
+msgstr "系统用户总数"
+
+msgid "Total Website Users"
+msgstr "网站用户总数"
+
+msgid "Type Name"
+msgstr "类型名称"
+
+msgid "Unlink Payment on Cancellation of Employee Advance"
+msgstr "取消员工预支时解除付款关联"
+
+msgid "Use Serial No Wise Valuation"
+msgstr "按序列号计价"
+
+msgid "Verification Link Expiry Duration"
+msgstr "验证链接有效期"
+
+msgid "Verification Token"
+msgstr "验证令牌"
+
+msgid "Web Form Values"
+msgstr "网页表单值"
+
+msgid "Work Anniversaries"
+msgstr "入职纪念日"
+
+msgid "Running"
+msgstr "运行中"
+
+msgid "% of Component Cost"
+msgstr "占组件成本百分比"
+
+msgid "Attachment Gallery"
+msgstr "附件库"
+
+msgid "Customer Form Tour"
+msgstr "客户表单导览"
+
+msgid "Delete Permanently"
+msgstr "永久删除"
+
+msgid "Employer Contribution"
+msgstr "雇主缴款"
+
+msgid "Mark as Closed"
+msgstr "标记为已关闭"
+
+msgid "On hold"
+msgstr "暂缓"
+
+msgid "Partially Reposted"
+msgstr "部分重算"
+
+msgid "Point Of Sale"
+msgstr "销售点(POS)"
+
+msgid "Reposted"
+msgstr "已重算"
+
+msgid "Setup Wizard"
+msgstr "设置向导"
+
+msgid "Shortlisted"
+msgstr "已入围"
+
+msgid "Supplier Form Tour"
+msgstr "供应商表单导览"
+
+msgid "Task Progress"
+msgstr "任务进度"
+
+msgid "Visual Plant Floor"
+msgstr "可视化车间布局"
+
+msgid "busy"
+msgstr "忙碌"
+
+msgid "idle"
+msgstr "空闲"
+
+msgid "Balance Sheet Settings Item"
+msgstr "资产负债表设置明细"
+
+msgid "Profit and Loss Statement Settings Item"
+msgstr "利润表设置明细"
+
+msgid "Cash Flow Item"
+msgstr "现金流量表明细"
+msgid "Accounts Payable Ageing"
+msgstr "应付账款账龄分析"
+
+msgid "Accounts Payable Standard"
+msgstr "应付账款(标准格式)"
+
+msgid "Accounts Payable Summary Standard"
+msgstr "应付账款汇总(标准格式)"
+
+msgid "Accounts Receivable Ageing"
+msgstr "应收账款账龄分析"
+
+msgid "Accounts Receivable Standard"
+msgstr "应收账款(标准格式)"
+
+msgid "Accounts Receivable Summary Standard"
+msgstr "应收账款汇总(标准格式)"
+
+msgid "Background Job Activity"
+msgstr "后台任务活动"
+
+msgid "Balance Sheet Standard"
+msgstr "资产负债表(标准格式)"
+
+msgid "Bank and Cash Payment Voucher"
+msgstr "银行与现金付款凭证"
+
+msgid "Cash Flow Statement Standard"
+msgstr "现金流量表(标准格式)"
+
+msgid "Cheque Printing Format"
+msgstr "支票打印格式"
+
+msgid "Claims by Type"
+msgstr "按类型统计报销"
+
+msgid "Delivery Note Standard"
+msgstr "发货单(标准格式)"
+
+msgid "Delivery Note with Item Image"
+msgstr "发货单(含物料图片)"
+
+msgid "Department Wise Salary(Last Month)"
+msgstr "部门工资统计(上月)"
+
+msgid "Department wise Expense Claims"
+msgstr "按部门统计报销单"
+
+msgid "Designation Wise Openings"
+msgstr "按职位统计空缺"
+
+msgid "Designation Wise Salary(Last Month)"
+msgstr "按职位统计工资(上月)"
+
+msgid "Detailed Tax Invoice"
+msgstr "详细税务发票"
+
+msgid "Drop Shipping Format"
+msgstr "直接发货打印格式"
+
+msgid "Email Activity"
+msgstr "邮件活动"
+
+msgid "Employee Advance Status"
+msgstr "员工预支状态"
+
+msgid "General Ledger Standard"
+msgstr "总账(标准格式)"
+
+msgid "HR Telemetry Milestone"
+msgstr "人力资源遥测里程碑"
+
+msgid "Human Resource"
+msgstr "人力资源"
+
+msgid "Incoming Bills (Purchase Invoice)"
+msgstr "进项发票(采购发票)"
+
+msgid "Job Applicant Pipeline"
+msgstr "求职者招聘管道"
+
+msgid "Job Applicants by Country"
+msgstr "按国家统计求职者"
+
+msgid "Job Application Frequency"
+msgstr "求职申请频次"
+
+msgid "Job Application Status"
+msgstr "求职申请状态"
+
+msgid "Job Offer Status"
+msgstr "录用通知状态"
+
+msgid "Journal Auditing Voucher"
+msgstr "日记账凭证"
+
+msgid "Location-wise Asset Value"
+msgstr "按地点统计资产价值"
+
+msgid "Notification Type Preference"
+msgstr "通知类型偏好"
+
+msgid "Notifications By Type"
+msgstr "按类型统计通知"
+
+msgid "Outgoing Bills (Sales Invoice)"
+msgstr "销项发票(销售发票)"
+
+msgid "P&L Statement Standard"
+msgstr "利润表(标准格式)"
+
+msgid "POS Invoice Standard"
+msgstr "POS发票(标准格式)"
+
+msgid "POS Invoice with Item Image"
+msgstr "POS发票(含物料图片)"
+
+msgid "Payment Receipt Voucher"
+msgstr "收款凭证"
+
+msgid "Purchase Auditing Voucher"
+msgstr "采购记账凭证"
+
+msgid "Purchase Invoice Standard"
+msgstr "采购发票(标准格式)"
+
+msgid "Purchase Invoice with Item Image"
+msgstr "采购发票(含物料图片)"
+
+msgid "Purchase Order Standard"
+msgstr "采购订单(标准格式)"
+
+msgid "Purchase Order with Item Image"
+msgstr "采购订单(含物料图片)"
+
+msgid "Purchase Receipt Serial and Batch Bundle Print"
+msgstr "采购入库序列号与批次打印"
+
+msgid "Purchase eInvoice"
+msgstr "采购电子发票"
+
+msgid "Quotation Standard"
+msgstr "报价单(标准格式)"
+
+msgid "Quotation with Item Image"
+msgstr "报价单(含物料图片)"
+
+msgid "Recorder Event"
+msgstr "性能记录事件"
+
+msgid "Request for Quotation with Item Image"
+msgstr "询价单(含物料图片)"
+
+msgid "Return POS Invoice"
+msgstr "POS退货发票"
+
+msgid "Salary Slip Classic"
+msgstr "工资单(经典版)"
+
+msgid "Salary Slip Compact"
+msgstr "工资单(精简版)"
+
+msgid "Salary Slip Detailed"
+msgstr "工资单(详细版)"
+
+msgid "Salary Slip Standard"
+msgstr "工资单(标准格式)"
+
+msgid "Salary Slip based on Timesheet"
+msgstr "基于工时表的工资单"
+
+msgid "Salary Slip with Year to Date"
+msgstr "含年初至今累计的工资单"
+
+msgid "Sales Auditing Voucher"
+msgstr "销售记账凭证"
+
+msgid "Sales Invoice Return"
+msgstr "销售发票退货"
+
+msgid "Sales Invoice Standard"
+msgstr "销售发票(标准格式)"
+
+msgid "Sales Invoice with Item Image"
+msgstr "销售发票(含物料图片)"
+
+msgid "Sales Order Standard"
+msgstr "销售订单(标准格式)"
+
+msgid "Sales Order with Item Image"
+msgstr "销售订单(含物料图片)"
+
+msgid "Simplified Tax Invoice"
+msgstr "简易税务发票"
+
+msgid "Standard Appointment Letter"
+msgstr "标准聘用函"
+
+msgid "Tax Invoice"
+msgstr "税务发票"
+
+msgid "Territory Wise Sales"
+msgstr "按区域统计销售额"
+
+msgid "Trial Balance Standard"
+msgstr "试算平衡表(标准格式)"
+
+msgid "Warehouse wise Stock Value"
+msgstr "按仓库统计库存价值"
+
+msgid "Web Form Request"
+msgstr "网页表单请求"
+
+msgid "Webpage Views"
+msgstr "页面浏览量"
+msgid "Check Missing Accounts"
+msgstr "检查缺失科目"
+
+msgid "Left Column"
+msgstr "左列"
+
+msgid "Right Column"
+msgstr "右列"
+
+msgid "Cash Flow Report"
+msgstr "现金流量表"
+
+msgid "Configuration Warnings"
+msgstr "配置警告"
+
+msgid "Download Cash Flow"
+msgstr "下载现金流量表"
+
+msgid "Logic Errors"
+msgstr "逻辑错误"
+
+msgid "{0}Row {1}"
+msgstr "{0}行 {1}"
+
+msgid "GL Entry {0} total amount {1} does not match amount {2} in general ledger"
+msgstr "总账分录 {0} 的金额合计 {1} 与总账中的 {2} 不一致"
+
+msgid "Row {0} refers to non-existent row {1}"
+msgstr "第 {0} 行引用了不存在的第 {1} 行"
+
+msgid "{0}: Account {1} already in {2}"
+msgstr "{0}：科目 {1} 已存在于 {2}"
+
+msgid "{0}Row {1}: '{2}' is not a valid row number"
+msgstr "{0}行 {1}：“{2}”不是有效的行号"
+
+msgid "{0}Row {1}: Referenced row {2} does not exist"
+msgstr "{0}行 {1}：所引用的第 {2} 行不存在"
+
+msgid "Age as on"
+msgstr "账龄截止日"
+
+msgid "Include Revaluation Journals"
+msgstr "包含重估日记账"
+
+msgid "Invalid document type"
+msgstr "无效的单据类型"
+
+msgid "Invalid name"
+msgstr "无效的名称"
+
+msgid "Cannot apply taxes"
+msgstr "无法应用税费"
+
+msgid "API Method Path"
+msgstr "API 方法路径"
+
+msgid "Account Filter"
+msgstr "科目筛选"
+
+msgid "Calculation Formula"
+msgstr "计算公式"
+
+msgid "Cannot apply taxes from this address"
+msgstr "无法从该地址应用税费"
+
+msgid "Create GL Reposting Entries"
+msgstr "创建总账重算分录"
+
+msgid "Invalid POS Search Field"
+msgstr "无效的 POS 搜索字段"
+
+msgid "Invalid type"
+msgstr "无效的类型"
+
+msgid "Items must be a list of Item codes"
+msgstr "物料必须是物料编码列表"
+
+msgid "Select at least one Item"
+msgstr "请至少选择一个物料"
+
+msgid "Sending Email"
+msgstr "正在发送邮件"
+
+msgid "% Complete must be between 0 and 100"
+msgstr "完成百分比必须在 0 到 100 之间"
+
+msgid "Add atleast one voucher to repost."
+msgstr "请至少添加一张凭证以重新过账"
+
+msgid "All Results"
+msgstr "全部结果"
+
+msgid "Appointment Confirmed"
+msgstr "预约已确认"
+
+msgid "Appointment is already verified."
+msgstr "预约已验证"
+
+msgid "Bin Values Recalculated"
+msgstr "库存值已重算"
+
+msgid "Closed Period"
+msgstr "已结账期间"
+
+msgid "Completed Quantity cannot be negative"
+msgstr "完成数量不能为负数"
+
+msgid "Completed quantity cannot be negative."
+msgstr "完成数量不能为负数。"
+
+msgid "Cost Center Validation Error"
+msgstr "成本中心校验错误"
+
+msgid "Disabled Price List"
+msgstr "已停用价目表"
+
+msgid "Duplicate POS Search Fields"
+msgstr "重复的 POS 搜索字段"
+
+msgid "Email couldn't be sent."
+msgstr "邮件发送失败"
+
+msgid "Field and operator must be strings"
+msgstr "字段和运算符必须是字符串"
+
+msgid "Filter must be a list or dict"
+msgstr "筛选条件必须是列表或字典"
+
+msgid "Formula has unbalanced parentheses"
+msgstr "公式括号不匹配"
+
+msgid "GL Reposting Entries"
+msgstr "总账重算分录"
+
+msgid "Group by Item"
+msgstr "按物料分组"
+
+msgid "Income Account Validation Error"
+msgstr "收入科目校验错误"
+
+msgid "Incorrect Inventory Dimension"
+msgstr "库存维度不正确"
+
+msgid "Internal Customer Already Exists"
+msgstr "内部客户已存在"
+
+msgid "Internal Supplier Already Exists"
+msgstr "内部供应商已存在"
+
+msgid "Invalid JSON"
+msgstr "无效的 JSON"
+
+msgid "Invalid POS Field"
+msgstr "无效的 POS 字段"
+
+msgid "Invalid POS Fields"
+msgstr "无效的 POS 字段"
+
+msgid "Invalid Price List"
+msgstr "无效的价目表"
+
+msgid "Invalid Reading"
+msgstr "无效读数"
+
+msgid "Invalid Sample Size"
+msgstr "无效的样本量"
+
+msgid "Invalid Shipping Account"
+msgstr "无效的运费科目"
+
+msgid "Invalid Valuation Method"
+msgstr "无效的计价方法"
+
+msgid "Invalid address"
+msgstr "无效地址"
+
+msgid "Invalid doctype"
+msgstr "无效的单据类型"
+
+msgid "Invalid filter"
+msgstr "无效的筛选条件"
+
+msgid "Invalid reference"
+msgstr "无效的引用"
+
+msgid "Invalid tax master doctype"
+msgstr "无效的税目主数据类型"
+
+msgid "Make Payment"
+msgstr "付款"
+
+msgid "Missing Accounting Dimension"
+msgstr "缺少会计维度"
+
+msgid "Missing Company"
+msgstr "缺少公司"
+
+msgid "My Filter"
+msgstr "我的筛选"
+
+msgid "No Matching Vouchers Found"
+msgstr "未找到匹配的凭证"
+
+msgid "No account set"
+msgstr "未设置科目"
+
+msgid "Not Used"
+msgstr "未使用"
+
+msgid "Not permitted to update Serial No"
+msgstr "不允许更新序列号"
+
+msgid "Overdue Limit Crossed"
+msgstr "已超出逾期额度"
+
+msgid "Payment Link couldn't be sent."
+msgstr "支付链接发送失败"
+
+msgid "Please select a warehouse first."
+msgstr "请先选择仓库"
+
+msgid "Production Plan Quantity Exceeded"
+msgstr "超出生产计划数量"
+
+msgid "Qty to Manufacture in this Cycle"
+msgstr "本周期生产数量"
+
+msgid "Recalculate Values"
+msgstr "重新计算数值"
+
+msgid "Reconciliation Failed"
+msgstr "对账失败"
+
+msgid "Reposting Entries"
+msgstr "重算分录"
+
+msgid "Reversal Journal Entries"
+msgstr "冲销日记账分录"
+
+msgid "Reversal Of Exchange Rate Revaluation"
+msgstr "汇率重估冲销"
+
+msgid "Reversing Journals..."
+msgstr "正在冲销日记账..."
+
+msgid "Sample Size must be greater than zero"
+msgstr "样本量必须大于零"
+
+msgid "Select Supplier for Items"
+msgstr "为物料选择供应商"
+
+msgid "Serial Nos Exist"
+msgstr "序列号已存在"
+
+msgid "Set Supplier for All Items"
+msgstr "为所有物料设置供应商"
+
+msgid "Stock Closing Entry In Progress"
+msgstr "存货结账凭证进行中"
+
+msgid "Stock Closing Entry Outdated"
+msgstr "存货结账凭证已过期"
+
+msgid "Stock Closing Entry Required"
+msgstr "需要存货结账凭证"
+
+msgid "Stock Frozen"
+msgstr "库存已冻结"
+
+msgid "Stock Value Mismatch"
+msgstr "库存价值不一致"
+
+msgid "Sync Serial No Status"
+msgstr "同步序列号状态"
+
+msgid "Thank you for your business!"
+msgstr "感谢您的惠顾！"
+
+msgid "Unable to Repost Accounting Ledger"
+msgstr "无法重算会计账簿"
+
+msgid "Verification link has expired."
+msgstr "验证链接已过期"
+
+msgid "Invalid Web Form Request"
+msgstr "无效的网页表单请求"
+
+msgid "A folder cannot have a File URL"
+msgstr "文件夹不能有文件 URL"
+
+msgid "Go to Access Control section"
+msgstr "前往权限控制部分"
+
+msgid "You must login to use this form"
+msgstr "您必须先登录才能使用此表单"
+
+msgid "Add attachment"
+msgstr "添加附件"
+
+msgid "Begin typing for results."
+msgstr "开始输入以获取结果"
+
+msgid "Check the Error Log for details."
+msgstr "详情请查看错误日志"
+
+msgid "Could not generate PDF"
+msgstr "无法生成 PDF"
+
+msgid "Delete Row"
+msgstr "删除行"
+
+msgid "Delete Table"
+msgstr "删除表格"
+
+msgid "Domain is required."
+msgstr "域名必填"
+
+msgid "Generating PDF..."
+msgstr "正在生成 PDF..."
+
+msgid "Heading 1"
+msgstr "标题 1"
+
+msgid "Heading 2"
+msgstr "标题 2"
+
+msgid "Heading 3"
+msgstr "标题 3"
+
+msgid "Heading 4"
+msgstr "标题 4"
+
+msgid "Heading 5"
+msgstr "标题 5"
+
+msgid "Heading 6"
+msgstr "标题 6"
+
+msgid "Insert Column Left"
+msgstr "在左侧插入列"
+
+msgid "Insert Column Right"
+msgstr "在右侧插入列"
+
+msgid "Insert Row Above"
+msgstr "在上方插入行"
+
+msgid "Insert Row Below"
+msgstr "在下方插入行"
+
+msgid "Insert Table"
+msgstr "插入表格"
+
+msgid "Invitation resent"
+msgstr "邀请已重新发送"
+
+msgid "JSON value must be an object"
+msgstr "JSON 值必须是对象"
+
+msgid "Key Required"
+msgstr "需要密钥"
+
+msgid "Manage your preferences"
+msgstr "管理您的偏好设置"
+
+msgid "No attachments"
+msgstr "无附件"
+
+msgid "Only pending invitations can be resent"
+msgstr "仅待处理的邀请可重新发送"
+
+msgid "QZ Tray Connection Active!"
+msgstr "QZ Tray 连接已激活！"
+
+msgid "Quarter Day"
+msgstr "季度日"
+
+msgid "Request to your server failed."
+msgstr "请求服务器失败"
+
+msgid "Save the document to attach files."
+msgstr "请先保存单据再添加附件"
+
+msgid "Show Board"
+msgstr "显示看板"
+
+msgid "Single DocTypes cannot be renamed"
+msgstr "单记录类型无法重命名"
+
+msgid "Task id is required."
+msgstr "任务 ID 必填"
+
+msgid "This Web Form Request has expired"
+msgstr "此网页表单请求已过期"
+
+msgid "This wont be captured"
+msgstr "此项不会被记录"
+
+msgid "Unable to load attachments."
+msgstr "无法加载附件"
+
+msgid "Web Form Request key is required"
+msgstr "网页表单请求密钥必填"
+
+msgid "Web Form Request link copied"
+msgstr "网页表单请求链接已复制"
+
+msgid "You are not permitted to send SMS"
+msgstr "您无权发送短信"
+
+msgid "You created this document"
+msgstr "您创建了此单据"
+
+msgid "You last edited this document"
+msgstr "您最后编辑了此单据"
+
+msgid "visible_types must be a list"
+msgstr "visible_types 必须是列表"
+
+msgid "Bank/Cash Account Required"
+msgstr "需要银行/现金科目"
+
+msgid "Failed to download PDF"
+msgstr "PDF 下载失败"
+
+msgid "Schedule Interview"
+msgstr "安排面试"
+
+msgid "Advance Account Required"
+msgstr "需要预支科目"
+
+msgid "Amount Exceeds Available Balance"
+msgstr "金额超过可用余额"
+
+msgid "Assignment Failed"
+msgstr "分配失败"
+
+msgid "Attendance marked successfully."
+msgstr "考勤标记成功"
+
+msgid "Back to Login"
+msgstr "返回登录"
+
+msgid "Bulk Assignment"
+msgstr "批量分配"
+
+msgid "CTC Missing for Employee"
+msgstr "员工缺少总人力成本(CTC)"
+
+msgid "Claim History"
+msgstr "报销记录"
+
+msgid "Create Job Offer"
+msgstr "创建录用通知"
+
+msgid "Current Password"
+msgstr "当前密码"
+
+msgid "Download Failed"
+msgstr "下载失败"
+
+msgid "Duplicate Application"
+msgstr "重复申请"
+
+msgid "Duplicate Assignment"
+msgstr "重复分配"
+
+msgid "Employee Exit"
+msgstr "员工离职"
+
+msgid "Employee not found"
+msgstr "未找到员工"
+
+msgid "Failed to send reset link"
+msgstr "重置链接发送失败"
+
+msgid "Failed to update password"
+msgstr "密码更新失败"
+
+msgid "How many employees do you have?"
+msgstr "您有多少名员工？"
+
+msgid "Interview scheduled successfully"
+msgstr "面试安排成功"
+
+msgid "Leave & Attendance"
+msgstr "休假与考勤"
+
+msgid "Leave Approver is mandatory"
+msgstr "休假审批人必填"
+
+msgid "Leave(s) Allocated"
+msgstr "已分配假期"
+
+msgid "Missing value for filters"
+msgstr "筛选条件缺少值"
+
+msgid "New passwords do not match"
+msgstr "两次输入的新密码不一致"
+
+msgid "Percent of CTC (%)"
+msgstr "CTC 百分比(%)"
+
+msgid "Performance Management"
+msgstr "绩效管理"
+
+msgid "Please enter a valid email address"
+msgstr "请输入有效的邮箱地址"
+
+msgid "Please enter your email address"
+msgstr "请输入您的邮箱地址"
+
+msgid "Please fill all fields"
+msgstr "请填写所有字段"
+
+msgid "See CTC Break-up"
+msgstr "查看薪酬构成明细"
+
+msgid "Select Interview Type First"
+msgstr "请先选择面试类型"
+
+msgid "Send Reset Link"
+msgstr "发送重置链接"
+
+msgid "Shift Request History"
+msgstr "排班申请记录"
+
+msgid "Show Employer Contributions"
+msgstr "显示雇主缴款"
+
+msgid "Total Employer Contribution"
+msgstr "雇主缴款合计"
+
+msgid "View Additional Salary entries"
+msgstr "查看额外薪资记录"
+
+msgid "View Details"
+msgstr "查看详情"
+
+msgid "View Job Offer"
+msgstr "查看录用通知"
+
+msgid "View Leave Balance"
+msgstr "查看假期余额"
+
+msgid "What do you use for HR today?"
+msgstr "您目前使用什么人力资源系统？"
+
+msgid "Your password has been updated."
+msgstr "您的密码已更新"
+
+msgid "payment days"
+msgstr "计薪天数"
+
+msgid "working days"
+msgstr "工作天数"
