@@ -19721,3 +19721,4 @@ Weightage,权重
 SELECT,选择
 Vihicle Maker,车辆制造商
 Vehicle Maker,车辆制造商
+"for same sequence ID operations, no preceeding operation to be finished validation check",相同序列号的工序不校验前序工序是否完成
